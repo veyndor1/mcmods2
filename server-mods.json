@@ -88,13 +88,6 @@
                      "size":  10201
                  },
                  {
-                     "name":  "c2meforge-0.2.0-forge.3-all.jar",
-                     "fileName":  "c2meforge-0.2.0-forge.3-all.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/1849f7de5bcce41d316b900204c3208d4d404c30/c2meforge-0.2.0-forge.3-all.jar",
-                     "sha1":  "1849f7de5bcce41d316b900204c3208d4d404c30",
-                     "size":  1173492
-                 },
-                 {
                      "name":  "chefsdelight-1.0.4-forge-1.20.1.jar",
                      "fileName":  "chefsdelight-1.0.4-forge-1.20.1.jar",
                      "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/4bb324dcad6b13df4ecbfa4d9c46664a5ee8da6f/chefsdelight-1.0.4-forge-1.20.1.jar",
@@ -597,13 +590,6 @@
                      "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/5a28ec56457cf1bf154e993cf73dba0428a7921b/Towns-and-Towers-1.12-Fabric%2BForge.jar",
                      "sha1":  "5a28ec56457cf1bf154e993cf73dba0428a7921b",
                      "size":  2864275
-                 },
-                 {
-                     "name":  "vminus-3.3.2.jar",
-                     "fileName":  "vminus-3.3.2.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/2fcc79a165f88621bd6aa27827422ea36f07b3cc/vminus-3.3.2.jar",
-                     "sha1":  "2fcc79a165f88621bd6aa27827422ea36f07b3cc",
-                     "size":  1221242
                  },
                  {
                      "name":  "vss-0.2.10-forge-1.20.1.jar",
