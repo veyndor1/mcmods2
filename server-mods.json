@@ -424,13 +424,6 @@
       "size": 9414827
     },
     {
-      "name": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
-      "fileName": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
-      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/9eacd407b7dea636d375dc47335d92f616484ea2/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar",
-      "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2",
-      "size": 532063
-    },
-    {
       "name": "iceandfire-2.1.13-1.20.1-beta-5.jar",
       "fileName": "iceandfire-2.1.13-1.20.1-beta-5.jar",
       "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/7e828cbb046ca3d622e92c68f956bd1c0155dc6f/iceandfire-2.1.13-1.20.1-beta-5.jar",
@@ -443,6 +436,13 @@
       "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/af3007f8cd07698286324bb3b555b5de2f84761a/illagerwarship-1.0.1-forge-1.20.1.jar",
       "sha1": "af3007f8cd07698286324bb3b555b5de2f84761a",
       "size": 70657
+    },
+    {
+      "name": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+      "fileName": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/9eacd407b7dea636d375dc47335d92f616484ea2/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar",
+      "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2",
+      "size": 532063
     },
     {
       "name": "immersiveweapons-1.20.1-1.27.7.jar",
@@ -758,6 +758,13 @@
       "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/66ac013b202dc3c6d9739e82a757b22628ffc94f/simpleplanestweak-1.0.3.jar",
       "sha1": "66ac013b202dc3c6d9739e82a757b22628ffc94f",
       "size": 25343
+    },
+    {
+      "name": "skin_changer-forge-1.20.1-0.6.6.jar",
+      "fileName": "skin_changer-forge-1.20.1-0.6.6.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/abe87385d066f352663f421ac5d8dfc50e1e6e06/skin_changer-forge-1.20.1-0.6.6.jar",
+      "sha1": "abe87385d066f352663f421ac5d8dfc50e1e6e06",
+      "size": 60904
     },
     {
       "name": "smoothchunk-1.20.1-4.1.jar",
