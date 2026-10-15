@@ -1,670 +1,1065 @@
 {
-    "schemaVersion":  2,
-    "minecraftVersion":  "1.20.1",
-    "packId":  "mc-mods2-1.20.1",
-    "mods":  [
-                 {
-                     "name":  "[forge]ctov-3.4.14.jar",
-                     "fileName":  "[forge]ctov-3.4.14.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/8fa73fd4c5ae58636e159e54321651adf555ac44/%5Bforge%5Dctov-3.4.14.jar",
-                     "sha1":  "8fa73fd4c5ae58636e159e54321651adf555ac44",
-                     "size":  6772753
-                 },
-                 {
-                     "name":  "AI-Improvements-1.20-0.5.2.jar",
-                     "fileName":  "AI-Improvements-1.20-0.5.2.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8/AI-Improvements-1.20-0.5.2.jar",
-                     "sha1":  "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8",
-                     "size":  29553
-                 },
-                 {
-                     "name":  "alexsmobs-1.22.9.jar",
-                     "fileName":  "alexsmobs-1.22.9.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f/alexsmobs-1.22.9.jar",
-                     "sha1":  "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f",
-                     "size":  26350793
-                 },
-                 {
-                     "name":  "alltheleaks-1.1.1+1.20.1-forge.jar",
-                     "fileName":  "alltheleaks-1.1.1+1.20.1-forge.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/3c43c2e76093dc7ef5ad6e456d20da9674c653aa/alltheleaks-1.1.1%2B1.20.1-forge.jar",
-                     "sha1":  "3c43c2e76093dc7ef5ad6e456d20da9674c653aa",
-                     "size":  1187126
-                 },
-                 {
-                     "name":  "AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
-                     "fileName":  "AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/87ea0cd8ec56763185ee0db09eec7c676969e4da/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
-                     "sha1":  "87ea0cd8ec56763185ee0db09eec7c676969e4da",
-                     "size":  53429226
-                 },
-                 {
-                     "name":  "appliedenergistics2-forge-15.4.10.jar",
-                     "fileName":  "appliedenergistics2-forge-15.4.10.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/ac255a120499f79f8deade474da09e3c00ff9bad/appliedenergistics2-forge-15.4.10.jar",
-                     "sha1":  "ac255a120499f79f8deade474da09e3c00ff9bad",
-                     "size":  8495956
-                 },
-                 {
-                     "name":  "Aquaculture-1.20.1-2.5.7.jar",
-                     "fileName":  "Aquaculture-1.20.1-2.5.7.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/308a0e92401e29bdb9cae24532a3b07a1bf6e757/Aquaculture-1.20.1-2.5.7.jar",
-                     "sha1":  "308a0e92401e29bdb9cae24532a3b07a1bf6e757",
-                     "size":  601839
-                 },
-                 {
-                     "name":  "AttributeFix-Forge-1.20.1-21.0.5.jar",
-                     "fileName":  "AttributeFix-Forge-1.20.1-21.0.5.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/76d6b2d0f2a3c9842587ad20666ba419cd8c1efa/AttributeFix-Forge-1.20.1-21.0.5.jar",
-                     "sha1":  "76d6b2d0f2a3c9842587ad20666ba419cd8c1efa",
-                     "size":  19499
-                 },
-                 {
-                     "name":  "BadOptimizations-2.4.1-1.20.1.jar",
-                     "fileName":  "BadOptimizations-2.4.1-1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/304007dcb0fb15ed1a1bc3771736470dafc5be0f/BadOptimizations-2.4.1-1.20.1.jar",
-                     "sha1":  "304007dcb0fb15ed1a1bc3771736470dafc5be0f",
-                     "size":  460234
-                 },
-                 {
-                     "name":  "better_tools_and_armor_v13.0-forge_1.20.1.jar",
-                     "fileName":  "better_tools_and_armor_v13.0-forge_1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/9956813c45c5332a6569be42340a9929deff1380/better_tools_and_armor_v13.0-forge_1.20.1.jar",
-                     "sha1":  "9956813c45c5332a6569be42340a9929deff1380",
-                     "size":  4687898
-                 },
-                 {
-                     "name":  "betterfpsdist-1.20.1-6.0.jar",
-                     "fileName":  "betterfpsdist-1.20.1-6.0.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/8e4fe2cd85c08c24ab363b47a63d1c872fc3cc1e/betterfpsdist-1.20.1-6.0.jar",
-                     "sha1":  "8e4fe2cd85c08c24ab363b47a63d1c872fc3cc1e",
-                     "size":  19917
-                 },
-                 {
-                     "name":  "bocchium-1.20.1-0.0.3.jar",
-                     "fileName":  "bocchium-1.20.1-0.0.3.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/4c74bafb892028c3ec006bd694836e42695b77a0/bocchium-1.20.1-0.0.3.jar",
-                     "sha1":  "4c74bafb892028c3ec006bd694836e42695b77a0",
-                     "size":  10201
-                 },
-                 {
-                     "name":  "chefsdelight-1.0.4-forge-1.20.1.jar",
-                     "fileName":  "chefsdelight-1.0.4-forge-1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/4bb324dcad6b13df4ecbfa4d9c46664a5ee8da6f/chefsdelight-1.0.4-forge-1.20.1.jar",
-                     "sha1":  "4bb324dcad6b13df4ecbfa4d9c46664a5ee8da6f",
-                     "size":  98303
-                 },
-                 {
-                     "name":  "chloride-FORGE-mc1.20.1-v1.8.1.jar",
-                     "fileName":  "chloride-FORGE-mc1.20.1-v1.8.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/b42ae912055a962aeae80b97f08ee3517542026a/chloride-FORGE-mc1.20.1-v1.8.1.jar",
-                     "sha1":  "b42ae912055a962aeae80b97f08ee3517542026a",
-                     "size":  532833
-                 },
-                 {
-                     "name":  "Chunky-1.3.146.jar",
-                     "fileName":  "Chunky-1.3.146.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50/Chunky-1.3.146.jar",
-                     "sha1":  "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50",
-                     "size":  341451
-                 },
-                 {
-                     "name":  "citadel-2.6.3-1.20.1.jar",
-                     "fileName":  "citadel-2.6.3-1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316/citadel-2.6.3-1.20.1.jar",
-                     "sha1":  "fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316",
-                     "size":  3185275
-                 },
-                 {
-                     "name":  "Clumps-forge-1.20.1-12.0.0.4.jar",
-                     "fileName":  "Clumps-forge-1.20.1-12.0.0.4.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/97cc669f68dbe812cb77cc3631339334fc28b877/Clumps-forge-1.20.1-12.0.0.4.jar",
-                     "sha1":  "97cc669f68dbe812cb77cc3631339334fc28b877",
-                     "size":  20299
-                 },
-                 {
-                     "name":  "Compat_AlexsMobs-Naturalist.jar",
-                     "fileName":  "Compat_AlexsMobs-Naturalist.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/b94eb0e5e73b41dea689b75fe17018c96628c649/Compat_AlexsMobs-Naturalist.jar",
-                     "sha1":  "b94eb0e5e73b41dea689b75fe17018c96628c649",
-                     "size":  107423
-                 },
-                 {
-                     "name":  "constructionwand-1.20.1-2.11.jar",
-                     "fileName":  "constructionwand-1.20.1-2.11.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/80bd5223cd8984dc1038cb9f2d1cb6b97f31998a/constructionwand-1.20.1-2.11.jar",
-                     "sha1":  "80bd5223cd8984dc1038cb9f2d1cb6b97f31998a",
-                     "size":  210312
-                 },
-                 {
-                     "name":  "Corgilib-Forge-1.20.1-4.0.3.5.jar",
-                     "fileName":  "Corgilib-Forge-1.20.1-4.0.3.5.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/ef71df3c9a3d22432d63957a8db00645353bfe36/Corgilib-Forge-1.20.1-4.0.3.5.jar",
-                     "sha1":  "ef71df3c9a3d22432d63957a8db00645353bfe36",
-                     "size":  318765
-                 },
-                 {
-                     "name":  "coroutil-forge-1.20.1-1.3.7.jar",
-                     "fileName":  "coroutil-forge-1.20.1-1.3.7.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0/coroutil-forge-1.20.1-1.3.7.jar",
-                     "sha1":  "7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0",
-                     "size":  64187
-                 },
-                 {
-                     "name":  "CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
-                     "fileName":  "CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/aef9a8ebdf0be50b6bd8da8ab4153f5085f71a80/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
-                     "sha1":  "aef9a8ebdf0be50b6bd8da8ab4153f5085f71a80",
-                     "size":  1144128
-                 },
-                 {
-                     "name":  "cristellib-1.1.6-forge.jar",
-                     "fileName":  "cristellib-1.1.6-forge.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/524ecf0f93f28be2f5db21d87dd81bdbc1a450e1/cristellib-1.1.6-forge.jar",
-                     "sha1":  "524ecf0f93f28be2f5db21d87dd81bdbc1a450e1",
-                     "size":  431318
-                 },
-                 {
-                     "name":  "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
-                     "fileName":  "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/71b1603071461e036a3ba2aaeeb52cc10fa3d348/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
-                     "sha1":  "71b1603071461e036a3ba2aaeeb52cc10fa3d348",
-                     "size":  22474
-                 },
-                 {
-                     "name":  "cupboard-1.20.1-4.0.jar",
-                     "fileName":  "cupboard-1.20.1-4.0.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/9d4194cb96189aa15bd88041bd475a36dcef15dc/cupboard-1.20.1-4.0.jar",
-                     "sha1":  "9d4194cb96189aa15bd88041bd475a36dcef15dc",
-                     "size":  32483
-                 },
-                 {
-                     "name":  "curios-forge-5.14.1+1.20.1.jar",
-                     "fileName":  "curios-forge-5.14.1+1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/452175b95ad3db6ff58bb8968f6bf7a9d1e0f480/curios-forge-5.14.1%2B1.20.1.jar",
-                     "sha1":  "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
-                     "size":  398066
-                 },
-                 {
-                     "name":  "dungeons_enhanced-1.20.1-5.4.3.jar",
-                     "fileName":  "dungeons_enhanced-1.20.1-5.4.3.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/18a8163d7b9128959091d9cc95d9a14bd1db25bf/dungeons_enhanced-1.20.1-5.4.3.jar",
-                     "sha1":  "18a8163d7b9128959091d9cc95d9a14bd1db25bf",
-                     "size":  1421681
-                 },
-                 {
-                     "name":  "dungeons-and-taverns-3.0.3.f[Forge].jar",
-                     "fileName":  "dungeons-and-taverns-3.0.3.f[Forge].jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/3f324242f3daf4785a8b9338f228679418f4870a/dungeons-and-taverns-3.0.3.f%5BForge%5D.jar",
-                     "sha1":  "3f324242f3daf4785a8b9338f228679418f4870a",
-                     "size":  13161907
-                 },
-                 {
-                     "name":  "DungeonsArise-1.20.x-2.1.58-release.jar",
-                     "fileName":  "DungeonsArise-1.20.x-2.1.58-release.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/30b4520e4fab40a6bb6153a2c72e34bcb721f0a5/DungeonsArise-1.20.x-2.1.58-release.jar",
-                     "sha1":  "30b4520e4fab40a6bb6153a2c72e34bcb721f0a5",
-                     "size":  8762342
-                 },
-                 {
-                     "name":  "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
-                     "fileName":  "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/0390b912cc5534bbe0f01853337d777453ca08de/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
-                     "sha1":  "0390b912cc5534bbe0f01853337d777453ca08de",
-                     "size":  248169
-                 },
-                 {
-                     "name":  "embeddium-0.3.31+mc1.20.1.jar",
-                     "fileName":  "embeddium-0.3.31+mc1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/bb2fa8f3e493af16af9160d049f96c614a1faf2f/embeddium-0.3.31%2Bmc1.20.1.jar",
-                     "sha1":  "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
-                     "size":  1320675
-                 },
-                 {
-                     "name":  "entityculling-forge-1.10.5-mc1.20.1.jar",
-                     "fileName":  "entityculling-forge-1.10.5-mc1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/b818f6d792b79f4ec116c89704e70292bd6f72b5/entityculling-forge-1.10.5-mc1.20.1.jar",
-                     "sha1":  "b818f6d792b79f4ec116c89704e70292bd6f72b5",
-                     "size":  1590221
-                 },
-                 {
-                     "name":  "Explorify v1.6.5.mod.jar",
-                     "fileName":  "Explorify v1.6.5.mod.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/5fb28be29200a41b034e423d87823eb19ad651cd/Explorify%20v1.6.5.mod.jar",
-                     "sha1":  "5fb28be29200a41b034e423d87823eb19ad651cd",
-                     "size":  767884
-                 },
-                 {
-                     "name":  "farmers-cutting-oh-the-biomes-weve-gone-1.20.1-1.1-forge.jar",
-                     "fileName":  "farmers-cutting-oh-the-biomes-weve-gone-1.20.1-1.1-forge.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/dbede4c292dfa8d9d00331feb80cdd42b15c3ef8/farmers-cutting-oh-the-biomes-weve-gone-1.20.1-1.1-forge.jar",
-                     "sha1":  "dbede4c292dfa8d9d00331feb80cdd42b15c3ef8",
-                     "size":  87615
-                 },
-                 {
-                     "name":  "FarmersDelight-1.20.1-1.3.2.jar",
-                     "fileName":  "FarmersDelight-1.20.1-1.3.2.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/397763ae36dc2e0f526e0338c875850437580157/FarmersDelight-1.20.1-1.3.2.jar",
-                     "sha1":  "397763ae36dc2e0f526e0338c875850437580157",
-                     "size":  3313327
-                 },
-                 {
-                     "name":  "FarmersStructures-1.0.4-1.20.jar",
-                     "fileName":  "FarmersStructures-1.0.4-1.20.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/efdf64144852cb4c79396ba1303a3752ad023818/FarmersStructures-1.0.4-1.20.jar",
-                     "sha1":  "efdf64144852cb4c79396ba1303a3752ad023818",
-                     "size":  425995
-                 },
-                 {
-                     "name":  "fastboot-1.20.x-1.2.jar",
-                     "fileName":  "fastboot-1.20.x-1.2.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/0820d6611bdf664cc84bf351089e75998a9f1962/fastboot-1.20.x-1.2.jar",
-                     "sha1":  "0820d6611bdf664cc84bf351089e75998a9f1962",
-                     "size":  24477
-                 },
-                 {
-                     "name":  "FastFurnace-1.20.1-8.0.2.jar",
-                     "fileName":  "FastFurnace-1.20.1-8.0.2.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/b144b8599acd3fac3f8f9d31fa217a4a5b942f61/FastFurnace-1.20.1-8.0.2.jar",
-                     "sha1":  "b144b8599acd3fac3f8f9d31fa217a4a5b942f61",
-                     "size":  6170
-                 },
-                 {
-                     "name":  "FastItemFrames-v20.1.5-1.20.1-Forge.jar",
-                     "fileName":  "FastItemFrames-v20.1.5-1.20.1-Forge.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/5ab6e361d3a68159ac0d5d252c6558d355e564af/FastItemFrames-v20.1.5-1.20.1-Forge.jar",
-                     "sha1":  "5ab6e361d3a68159ac0d5d252c6558d355e564af",
-                     "size":  99737
-                 },
-                 {
-                     "name":  "FastSuite-1.20.1-5.1.2.jar",
-                     "fileName":  "FastSuite-1.20.1-5.1.2.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/32ea4495b0e646f8f060e4e97d17044dd9fdefbd/FastSuite-1.20.1-5.1.2.jar",
-                     "sha1":  "32ea4495b0e646f8f060e4e97d17044dd9fdefbd",
-                     "size":  26600
-                 },
-                 {
-                     "name":  "FastWorkbench-1.20.1-8.0.4.jar",
-                     "fileName":  "FastWorkbench-1.20.1-8.0.4.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/1a322a85e7c7024b8a0715c12d27b5ed0930d729/FastWorkbench-1.20.1-8.0.4.jar",
-                     "sha1":  "1a322a85e7c7024b8a0715c12d27b5ed0930d729",
-                     "size":  28188
-                 },
-                 {
-                     "name":  "ferritecore-6.0.1-forge.jar",
-                     "fileName":  "ferritecore-6.0.1-forge.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/417fb6ce8f52abf40bd9d0390371790f9576f8ba/ferritecore-6.0.1-forge.jar",
-                     "sha1":  "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
-                     "size":  123034
-                 },
-                 {
-                     "name":  "forest_ruins-1.0.0-forge-1.20.1.jar",
-                     "fileName":  "forest_ruins-1.0.0-forge-1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/52e0caebda9d5f7aa0145b5a1a1c660987fbb29d/forest_ruins-1.0.0-forge-1.20.1.jar",
-                     "sha1":  "52e0caebda9d5f7aa0145b5a1a1c660987fbb29d",
-                     "size":  32526
-                 },
-                 {
-                     "name":  "geckolib-forge-1.20.1-4.8.4.jar",
-                     "fileName":  "geckolib-forge-1.20.1-4.8.4.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/81982cc287f80ffabb2fd36d22cc95e4255c739d/geckolib-forge-1.20.1-4.8.4.jar",
-                     "sha1":  "81982cc287f80ffabb2fd36d22cc95e4255c739d",
-                     "size":  1038209
-                 },
-                 {
-                     "name":  "GPUTape-1.18x-1.21x-1.0.5.1-forge.jar",
-                     "fileName":  "GPUTape-1.18x-1.21x-1.0.5.1-forge.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/db4a84db628dd668e08898e42e881615d34f0629/GPUTape-1.18x-1.21x-1.0.5.1-forge.jar",
-                     "sha1":  "db4a84db628dd668e08898e42e881615d34f0629",
-                     "size":  20295
-                 },
-                 {
-                     "name":  "guideme-20.1.15.jar",
-                     "fileName":  "guideme-20.1.15.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/3d432fc99cefcfd17a12635d2d220f09a069f1c7/guideme-20.1.15.jar",
-                     "sha1":  "3d432fc99cefcfd17a12635d2d220f09a069f1c7",
-                     "size":  9414827
-                 },
-                 {
-                     "name":  "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
-                     "fileName":  "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/9eacd407b7dea636d375dc47335d92f616484ea2/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar",
-                     "sha1":  "9eacd407b7dea636d375dc47335d92f616484ea2",
-                     "size":  532063
-                 },
-                 {
-                     "name":  "immersiveores-1.20.1-1.0.1.jar",
-                     "fileName":  "immersiveores-1.20.1-1.0.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/1da800cc35229ca9521ade24e43689923f818006/immersiveores-1.20.1-1.0.1.jar",
-                     "sha1":  "1da800cc35229ca9521ade24e43689923f818006",
-                     "size":  504136
-                 },
-                 {
-                     "name":  "infernalmobs-1.20.1.11.jar",
-                     "fileName":  "infernalmobs-1.20.1.11.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/b4c26889024f920fa2df0a40c7bd1430db3fac51/infernalmobs-1.20.1.11.jar",
-                     "sha1":  "b4c26889024f920fa2df0a40c7bd1430db3fac51",
-                     "size":  145937
-                 },
-                 {
-                     "name":  "irons_lib-1.20.1-2.1.0.jar",
-                     "fileName":  "irons_lib-1.20.1-2.1.0.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/c2fa494d679ac912f8fb52ed6f832c1f3817401c/irons_lib-1.20.1-2.1.0.jar",
-                     "sha1":  "c2fa494d679ac912f8fb52ed6f832c1f3817401c",
-                     "size":  428969
-                 },
-                 {
-                     "name":  "irons_spellbooks-1.20.1-3.16.2.jar",
-                     "fileName":  "irons_spellbooks-1.20.1-3.16.2.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/d7ade8902fe7cf6d82a17dab13071f0eaac8d8b9/irons_spellbooks-1.20.1-3.16.2.jar",
-                     "sha1":  "d7ade8902fe7cf6d82a17dab13071f0eaac8d8b9",
-                     "size":  15554022
-                 },
-                 {
-                     "name":  "jei-1.20.1-forge-15.20.0.112.jar",
-                     "fileName":  "jei-1.20.1-forge-15.20.0.112.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/f12b3781af6337794ae6e010420a97585360ea2f/jei-1.20.1-forge-15.20.0.112.jar",
-                     "sha1":  "f12b3781af6337794ae6e010420a97585360ea2f",
-                     "size":  1385600
-                 },
-                 {
-                     "name":  "JustEnoughResources-1.20.1-1.4.0.247.jar",
-                     "fileName":  "JustEnoughResources-1.20.1-1.4.0.247.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/2747c58f439c37a01139d35cab59ca1a54114009/JustEnoughResources-1.20.1-1.4.0.247.jar",
-                     "sha1":  "2747c58f439c37a01139d35cab59ca1a54114009",
-                     "size":  276231
-                 },
-                 {
-                     "name":  "Ksyxis-1.4.3.jar",
-                     "fileName":  "Ksyxis-1.4.3.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/6f4b2ea7827da8136bdf436457a2ba3fcdb2120e/Ksyxis-1.4.3.jar",
-                     "sha1":  "6f4b2ea7827da8136bdf436457a2ba3fcdb2120e",
-                     "size":  26968
-                 },
-                 {
-                     "name":  "lithostitched-forge-1.20.1-1.4.11.jar",
-                     "fileName":  "lithostitched-forge-1.20.1-1.4.11.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/d1a755de84ee5d8910ff1e65e815473056e93ece/lithostitched-forge-1.20.1-1.4.11.jar",
-                     "sha1":  "d1a755de84ee5d8910ff1e65e815473056e93ece",
-                     "size":  476347
-                 },
-                 {
-                     "name":  "lootr_liason-1.2.1+1.20.1-forge.jar",
-                     "fileName":  "lootr_liason-1.2.1+1.20.1-forge.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/f28db45e445b8250bf89224a44e0359effcd6be3/lootr_liason-1.2.1%2B1.20.1-forge.jar",
-                     "sha1":  "f28db45e445b8250bf89224a44e0359effcd6be3",
-                     "size":  26026
-                 },
-                 {
-                     "name":  "lootr-forge-1.20-0.7.35.94.jar",
-                     "fileName":  "lootr-forge-1.20-0.7.35.94.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/1ec77a7df8adbf3290a296bf25b8f99f37a60020/lootr-forge-1.20-0.7.35.94.jar",
-                     "sha1":  "1ec77a7df8adbf3290a296bf25b8f99f37a60020",
-                     "size":  463485
-                 },
-                 {
-                     "name":  "mobtimizations-forge-1.20.1-1.0.1.jar",
-                     "fileName":  "mobtimizations-forge-1.20.1-1.0.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/7a1f74a0cc178013808b09f409341d7277ebb72a/mobtimizations-forge-1.20.1-1.0.1.jar",
-                     "sha1":  "7a1f74a0cc178013808b09f409341d7277ebb72a",
-                     "size":  27943
-                 },
-                 {
-                     "name":  "modernfix-forge-5.27.72+mc1.20.1.jar",
-                     "fileName":  "modernfix-forge-5.27.72+mc1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/a1954e427611b0f99cf48aa14700a5a1b480c2fd/modernfix-forge-5.27.72%2Bmc1.20.1.jar",
-                     "sha1":  "a1954e427611b0f99cf48aa14700a5a1b480c2fd",
-                     "size":  1000069
-                 },
-                 {
-                     "name":  "mowziesmobs-1.8.2.jar",
-                     "fileName":  "mowziesmobs-1.8.2.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/25ffcd175cc03650e38e60d3cb7b3e038d9d3345/mowziesmobs-1.8.2.jar",
-                     "sha1":  "25ffcd175cc03650e38e60d3cb7b3e038d9d3345",
-                     "size":  36033850
-                 },
-                 {
-                     "name":  "naturalist-5.0pre2+forge-1.20.1.jar",
-                     "fileName":  "naturalist-5.0pre2+forge-1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/e0ddee72643c92f2b4754fa4d24c16d79eba343a/naturalist-5.0pre2%2Bforge-1.20.1.jar",
-                     "sha1":  "e0ddee72643c92f2b4754fa4d24c16d79eba343a",
-                     "size":  3793857
-                 },
-                 {
-                     "name":  "Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar",
-                     "fileName":  "Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/5924e8b6cec952dae66055ebaea1bde6f84e2239/Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar",
-                     "sha1":  "5924e8b6cec952dae66055ebaea1bde6f84e2239",
-                     "size":  19043613
-                 },
-                 {
-                     "name":  "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.0.jar",
-                     "fileName":  "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.0.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/d110dd6c11216d44e704862db8c107f83eda79fb/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.0.jar",
-                     "sha1":  "d110dd6c11216d44e704862db8c107f83eda79fb",
-                     "size":  171966
-                 },
-                 {
-                     "name":  "Placebo-1.20.1-8.6.3.jar",
-                     "fileName":  "Placebo-1.20.1-8.6.3.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/e85f53de2e582a79ce25ff1df1e7b5b5fc08440f/Placebo-1.20.1-8.6.3.jar",
-                     "sha1":  "e85f53de2e582a79ce25ff1df1e7b5b5fc08440f",
-                     "size":  282474
-                 },
-                 {
-                     "name":  "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-                     "fileName":  "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/16808f94a41d45d8e986b4e4ea6b02ba57fa058a/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
-                     "sha1":  "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
-                     "size":  181437
-                 },
-                 {
-                     "name":  "pointblank-forge-1.20.1-1.11.1.jar",
-                     "fileName":  "pointblank-forge-1.20.1-1.11.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/85c1cb8edfe77f6d2b5a929eca265d77906bd5c2/pointblank-forge-1.20.1-1.11.1.jar",
-                     "sha1":  "85c1cb8edfe77f6d2b5a929eca265d77906bd5c2",
-                     "size":  17452885
-                 },
-                 {
-                     "name":  "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
-                     "fileName":  "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/285b7c7616971338ccbe0022c9ea0f8ad3036aaf/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
-                     "sha1":  "285b7c7616971338ccbe0022c9ea0f8ad3036aaf",
-                     "size":  1342987
-                 },
-                 {
-                     "name":  "radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
-                     "fileName":  "radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/f5f5f792473bb7b85ec221f75c5afb3740afb13a/radium-mc1.20.1-0.12.4%2Bgit.26c9d8e.jar",
-                     "sha1":  "f5f5f792473bb7b85ec221f75c5afb3740afb13a",
-                     "size":  713454
-                 },
-                 {
-                     "name":  "redirector-5.0.0.jar",
-                     "fileName":  "redirector-5.0.0.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/0b246b2648a2e463f243852fdd1ef8c2931da19c/redirector-5.0.0.jar",
-                     "sha1":  "0b246b2648a2e463f243852fdd1ef8c2931da19c",
-                     "size":  5793
-                 },
-                 {
-                     "name":  "sawmillhouse-2.0.1-forge-1.20.1.jar",
-                     "fileName":  "sawmillhouse-2.0.1-forge-1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/f5bcaf3957abba65dc9e2e9c5333466cc0a90d5c/sawmillhouse-2.0.1-forge-1.20.1.jar",
-                     "sha1":  "f5bcaf3957abba65dc9e2e9c5333466cc0a90d5c",
-                     "size":  61589
-                 },
-                 {
-                     "name":  "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
-                     "fileName":  "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/d27524e85bed0f0af83c03be46f9ca3eb02a1be9/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
-                     "sha1":  "d27524e85bed0f0af83c03be46f9ca3eb02a1be9",
-                     "size":  511601
-                 },
-                 {
-                     "name":  "sodiumextras-forge-1.0.7-1.20.1.jar",
-                     "fileName":  "sodiumextras-forge-1.0.7-1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/7603f44bc4750774fbbdc07a3153c391650fcf3d/sodiumextras-forge-1.0.7-1.20.1.jar",
-                     "sha1":  "7603f44bc4750774fbbdc07a3153c391650fcf3d",
-                     "size":  438540
-                 },
-                 {
-                     "name":  "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
-                     "fileName":  "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/7529fbf938787ed13a251cbf40936f8c29ec4b6c/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
-                     "sha1":  "7529fbf938787ed13a251cbf40936f8c29ec4b6c",
-                     "size":  443978
-                 },
-                 {
-                     "name":  "soulslike-weaponry-1.4.8-1.20.1-forge.jar",
-                     "fileName":  "soulslike-weaponry-1.4.8-1.20.1-forge.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/22709a86187b695a3f923bcc2d9da87c638b6c0f/soulslike-weaponry-1.4.8-1.20.1-forge.jar",
-                     "sha1":  "22709a86187b695a3f923bcc2d9da87c638b6c0f",
-                     "size":  54877532
-                 },
-                 {
-                     "name":  "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
-                     "fileName":  "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/aef2c02392624f0a12475ada809366b12ac9ec52/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
-                     "sha1":  "aef2c02392624f0a12475ada809366b12ac9ec52",
-                     "size":  206984
-                 },
-                 {
-                     "name":  "starlight-1.1.2+forge.1cda73c.jar",
-                     "fileName":  "starlight-1.1.2+forge.1cda73c.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/a915880c7834a0b0f9f300f0e3053deaa9a3205a/starlight-1.1.2%2Bforge.1cda73c.jar",
-                     "sha1":  "a915880c7834a0b0f9f300f0e3053deaa9a3205a",
-                     "size":  110583
-                 },
-                 {
-                     "name":  "Structory_1.20.x_v1.3.5.jar",
-                     "fileName":  "Structory_1.20.x_v1.3.5.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/88c1d90ac79c98a50e3e4bd3a93c70431c716dd5/Structory_1.20.x_v1.3.5.jar",
-                     "sha1":  "88c1d90ac79c98a50e3e4bd3a93c70431c716dd5",
-                     "size":  1286460
-                 },
-                 {
-                     "name":  "structure_gel-1.20.1-2.16.2.jar",
-                     "fileName":  "structure_gel-1.20.1-2.16.2.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/ec8c59d2a69eca3249a8da673f572b40b6d59895/structure_gel-1.20.1-2.16.2.jar",
-                     "sha1":  "ec8c59d2a69eca3249a8da673f572b40b6d59895",
-                     "size":  966028
-                 },
-                 {
-                     "name":  "structureessentials-1.20.1-5.0.jar",
-                     "fileName":  "structureessentials-1.20.1-5.0.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/7eec1e4d46a731c6da0b0135915529e21621a81d/structureessentials-1.20.1-5.0.jar",
-                     "sha1":  "7eec1e4d46a731c6da0b0135915529e21621a81d",
-                     "size":  62974
-                 },
-                 {
-                     "name":  "tectonic-3.0.17-forge-1.20.1.jar",
-                     "fileName":  "tectonic-3.0.17-forge-1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/07bfe13bc1bd75a6277f3d62bf92a549b33067a9/tectonic-3.0.17-forge-1.20.1.jar",
-                     "sha1":  "07bfe13bc1bd75a6277f3d62bf92a549b33067a9",
-                     "size":  322575
-                 },
-                 {
-                     "name":  "TerraBlender-forge-1.20.1-3.0.1.10.jar",
-                     "fileName":  "TerraBlender-forge-1.20.1-3.0.1.10.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/3bd99fb59e8b06b04e78b5153790c1e08b2be5dc/TerraBlender-forge-1.20.1-3.0.1.10.jar",
-                     "sha1":  "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc",
-                     "size":  107532
-                 },
-                 {
-                     "name":  "Terralith_1.20.x_v2.5.4.jar",
-                     "fileName":  "Terralith_1.20.x_v2.5.4.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/79e1409b8db4ce86df9d6d6730f09c4bd8860a30/Terralith_1.20.x_v2.5.4.jar",
-                     "sha1":  "79e1409b8db4ce86df9d6d6730f09c4bd8860a30",
-                     "size":  3156901
-                 },
-                 {
-                     "name":  "The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
-                     "fileName":  "The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/11ae4c94aa94b38b78cf9b901dad4612b679f8ac/The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
-                     "sha1":  "11ae4c94aa94b38b78cf9b901dad4612b679f8ac",
-                     "size":  10298153
-                 },
-                 {
-                     "name":  "Towns-and-Towers-1.12-Fabric+Forge.jar",
-                     "fileName":  "Towns-and-Towers-1.12-Fabric+Forge.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/5a28ec56457cf1bf154e993cf73dba0428a7921b/Towns-and-Towers-1.12-Fabric%2BForge.jar",
-                     "sha1":  "5a28ec56457cf1bf154e993cf73dba0428a7921b",
-                     "size":  2864275
-                 },
-                 {
-                     "name":  "vss-0.2.10-forge-1.20.1.jar",
-                     "fileName":  "vss-0.2.10-forge-1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/f3af5595f0239fac734d7ebf8eef29ee0b1b4d93/vss-0.2.10-forge-1.20.1.jar",
-                     "sha1":  "f3af5595f0239fac734d7ebf8eef29ee0b1b4d93",
-                     "size":  622262
-                 },
-                 {
-                     "name":  "YungsApi-1.20-Forge-4.0.6.jar",
-                     "fileName":  "YungsApi-1.20-Forge-4.0.6.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/af584b690f5646c6032002b58abc4591beed3833/YungsApi-1.20-Forge-4.0.6.jar",
-                     "sha1":  "af584b690f5646c6032002b58abc4591beed3833",
-                     "size":  370524
-                 },
-                 {
-                     "name":  "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
-                     "fileName":  "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/31b386b2dbaa4933e0a10ccdfb25f56da16931a6/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
-                     "sha1":  "31b386b2dbaa4933e0a10ccdfb25f56da16931a6",
-                     "size":  918012
-                 },
-                 {
-                     "name":  "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
-                     "fileName":  "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/67a9e1c2ff126ab54cea8e0709d178915243039e/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
-                     "sha1":  "67a9e1c2ff126ab54cea8e0709d178915243039e",
-                     "size":  792381
-                 },
-                 {
-                     "name":  "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
-                     "fileName":  "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/e2cbc574807a994bb9610184eb4bbfe29a6c0774/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
-                     "sha1":  "e2cbc574807a994bb9610184eb4bbfe29a6c0774",
-                     "size":  492998
-                 },
-                 {
-                     "name":  "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
-                     "fileName":  "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/3730238c56edca4bb5b2238e1314aec572ced385/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
-                     "sha1":  "3730238c56edca4bb5b2238e1314aec572ced385",
-                     "size":  473564
-                 },
-                 {
-                     "name":  "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
-                     "fileName":  "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/71fee574f920c6b05004f100ba07e9b8d5844169/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
-                     "sha1":  "71fee574f920c6b05004f100ba07e9b8d5844169",
-                     "size":  179190
-                 },
-                 {
-                     "name":  "YungsExtras-1.20-Forge-4.0.3.jar",
-                     "fileName":  "YungsExtras-1.20-Forge-4.0.3.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/4b2e632353a95c16a080c2e64c426480a139fbd6/YungsExtras-1.20-Forge-4.0.3.jar",
-                     "sha1":  "4b2e632353a95c16a080c2e64c426480a139fbd6",
-                     "size":  200341
-                 }
-             ],
-    "configs":  [
-                    {
-                        "path":  "jei",
-                        "type":  "directory",
-                        "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/configs/57776feb0ad858f2731f595d08c015b847c22646aaee3a43849f4f485374ba67/snapshot.zip",
-                        "sha256":  "57776feb0ad858f2731f595d08c015b847c22646aaee3a43849f4f485374ba67",
-                        "size":  2058,
-                        "directories":  [
-
-                                        ],
-                        "files":  [
-                                      {
-                                          "path":  "jei-client.ini",
-                                          "sha256":  "64b8a2b32b253492439710f80da3741df57484cd0bd10819be7dcc1a195aa9e9",
-                                          "size":  7990
-                                      }
-                                  ]
-                    }
-                ]
+  "schemaVersion": 2,
+  "minecraftVersion": "1.20.1",
+  "packId": "mc-mods2-1.20.1",
+  "mods": [
+    {
+      "name": "aether-1.20.1-1.5.2-neoforge.jar",
+      "fileName": "aether-1.20.1-1.5.2-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/fb6af601028e399016271bc166fd1de888680de7/aether-1.20.1-1.5.2-neoforge.jar",
+      "sha1": "fb6af601028e399016271bc166fd1de888680de7",
+      "size": 39746319
+    },
+    {
+      "name": "AI-Improvements-1.20-0.5.2.jar",
+      "fileName": "AI-Improvements-1.20-0.5.2.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8/AI-Improvements-1.20-0.5.2.jar",
+      "sha1": "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8",
+      "size": 29553
+    },
+    {
+      "name": "alexscaves-2.0.2.jar",
+      "fileName": "alexscaves-2.0.2.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53/alexscaves-2.0.2.jar",
+      "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53",
+      "size": 74871657
+    },
+    {
+      "name": "alexsmobs-1.22.9.jar",
+      "fileName": "alexsmobs-1.22.9.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f/alexsmobs-1.22.9.jar",
+      "sha1": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f",
+      "size": 26350793
+    },
+    {
+      "name": "alltheleaks-1.1.4+1.20.1-forge.jar",
+      "fileName": "alltheleaks-1.1.4+1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/b4935ae90526992b0c39cf2303cf36ec94a07c41/alltheleaks-1.1.4%2B1.20.1-forge.jar",
+      "sha1": "b4935ae90526992b0c39cf2303cf36ec94a07c41",
+      "size": 1274164
+    },
+    {
+      "name": "AmbientSounds_FORGE_v6.3.10_mc1.20.1.jar",
+      "fileName": "AmbientSounds_FORGE_v6.3.10_mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/feb797f5303eb0b43002ad8ea366530249b4710b/AmbientSounds_FORGE_v6.3.10_mc1.20.1.jar",
+      "sha1": "feb797f5303eb0b43002ad8ea366530249b4710b",
+      "size": 53432458
+    },
+    {
+      "name": "Apotheosis-1.20.1-7.4.8.jar",
+      "fileName": "Apotheosis-1.20.1-7.4.8.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/e508c4724a24f0c80836818fcdd3df6424b1fc40/Apotheosis-1.20.1-7.4.8.jar",
+      "sha1": "e508c4724a24f0c80836818fcdd3df6424b1fc40",
+      "size": 2803994
+    },
+    {
+      "name": "ApothicAttributes-1.20.1-1.3.7.jar",
+      "fileName": "ApothicAttributes-1.20.1-1.3.7.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/1dc0744d17f0861fe6b067798d39abce9d8e0e86/ApothicAttributes-1.20.1-1.3.7.jar",
+      "sha1": "1dc0744d17f0861fe6b067798d39abce9d8e0e86",
+      "size": 227511
+    },
+    {
+      "name": "appliedenergistics2-forge-15.4.11.jar",
+      "fileName": "appliedenergistics2-forge-15.4.11.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/e0d777a400fe3c3082681d28de4e7f6a0b3e7b50/appliedenergistics2-forge-15.4.11.jar",
+      "sha1": "e0d777a400fe3c3082681d28de4e7f6a0b3e7b50",
+      "size": 8501309
+    },
+    {
+      "name": "Aquaculture-1.20.1-2.5.7.jar",
+      "fileName": "Aquaculture-1.20.1-2.5.7.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/308a0e92401e29bdb9cae24532a3b07a1bf6e757/Aquaculture-1.20.1-2.5.7.jar",
+      "sha1": "308a0e92401e29bdb9cae24532a3b07a1bf6e757",
+      "size": 601839
+    },
+    {
+      "name": "architectury-9.2.14-forge.jar",
+      "fileName": "architectury-9.2.14-forge.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/a52918a500ff421180a1cbd1a0cabee712134ec4/architectury-9.2.14-forge.jar",
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "size": 580602
+    },
+    {
+      "name": "AsyncParticles-20.1.4.1+1.20.1.jar",
+      "fileName": "AsyncParticles-20.1.4.1+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/5e6a07e39736756f5a92202fb83ec36b2cd90db0/AsyncParticles-20.1.4.1%2B1.20.1.jar",
+      "sha1": "5e6a07e39736756f5a92202fb83ec36b2cd90db0",
+      "size": 1990517
+    },
+    {
+      "name": "AttributeFix-Forge-1.20.1-21.0.5.jar",
+      "fileName": "AttributeFix-Forge-1.20.1-21.0.5.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/76d6b2d0f2a3c9842587ad20666ba419cd8c1efa/AttributeFix-Forge-1.20.1-21.0.5.jar",
+      "sha1": "76d6b2d0f2a3c9842587ad20666ba419cd8c1efa",
+      "size": 19499
+    },
+    {
+      "name": "BadOptimizations-2.4.1-1.20.1.jar",
+      "fileName": "BadOptimizations-2.4.1-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/304007dcb0fb15ed1a1bc3771736470dafc5be0f/BadOptimizations-2.4.1-1.20.1.jar",
+      "sha1": "304007dcb0fb15ed1a1bc3771736470dafc5be0f",
+      "size": 460234
+    },
+    {
+      "name": "balm-forge-1.20.1-7.3.44.jar",
+      "fileName": "balm-forge-1.20.1-7.3.44.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/b3f8a6a5823d3b4f2dce19c8aea9373e24bcb443/balm-forge-1.20.1-7.3.44.jar",
+      "sha1": "b3f8a6a5823d3b4f2dce19c8aea9373e24bcb443",
+      "size": 561741
+    },
+    {
+      "name": "bettercombat-forge-1.9.0+1.20.1.jar",
+      "fileName": "bettercombat-forge-1.9.0+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/ea7e7247132cb3acacadd96b2b6b635c4cc63a74/bettercombat-forge-1.9.0%2B1.20.1.jar",
+      "sha1": "ea7e7247132cb3acacadd96b2b6b635c4cc63a74",
+      "size": 1054339
+    },
+    {
+      "name": "betterfpsdist-1.20.1-6.0.jar",
+      "fileName": "betterfpsdist-1.20.1-6.0.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/8e4fe2cd85c08c24ab363b47a63d1c872fc3cc1e/betterfpsdist-1.20.1-6.0.jar",
+      "sha1": "8e4fe2cd85c08c24ab363b47a63d1c872fc3cc1e",
+      "size": 19917
+    },
+    {
+      "name": "block_factorys_bosses-2.1.2-forge-1.20.1.jar",
+      "fileName": "block_factorys_bosses-2.1.2-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/f27671c93f058053a599e0f2c99ad78e912ecf44/block_factorys_bosses-2.1.2-forge-1.20.1.jar",
+      "sha1": "f27671c93f058053a599e0f2c99ad78e912ecf44",
+      "size": 23963009
+    },
+    {
+      "name": "blue_skies-1.20.1-1.3.31.jar",
+      "fileName": "blue_skies-1.20.1-1.3.31.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/9d86230565f9262e845da2065f138e470eaed44c/blue_skies-1.20.1-1.3.31.jar",
+      "sha1": "9d86230565f9262e845da2065f138e470eaed44c",
+      "size": 83564111
+    },
+    {
+      "name": "blueprint-1.20.1-7.1.5.jar",
+      "fileName": "blueprint-1.20.1-7.1.5.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/78d5ce605ee1c19396fa59c45f541b99e1086768/blueprint-1.20.1-7.1.5.jar",
+      "sha1": "78d5ce605ee1c19396fa59c45f541b99e1086768",
+      "size": 1160817
+    },
+    {
+      "name": "bons_and_furious-1.0.42.jar",
+      "fileName": "bons_and_furious-1.0.42.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/4b92fd117fcf10b181a4401c632e93a6783b19d0/bons_and_furious-1.0.42.jar",
+      "sha1": "4b92fd117fcf10b181a4401c632e93a6783b19d0",
+      "size": 2695994
+    },
+    {
+      "name": "bygonenether-1.3.2-1.20.x.jar",
+      "fileName": "bygonenether-1.3.2-1.20.x.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/529e31d2877b87a8bf006f590513a33ab6b73171/bygonenether-1.3.2-1.20.x.jar",
+      "sha1": "529e31d2877b87a8bf006f590513a33ab6b73171",
+      "size": 7642613
+    },
+    {
+      "name": "c2meforge-0.2.0-forge.9.9-all.jar",
+      "fileName": "c2meforge-0.2.0-forge.9.9-all.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/cd97f5c6e7c784d3a503dcea8eeae1b5c1c9e0c8/c2meforge-0.2.0-forge.9.9-all.jar",
+      "sha1": "cd97f5c6e7c784d3a503dcea8eeae1b5c1c9e0c8",
+      "size": 1371930
+    },
+    {
+      "name": "carryon-forge-1.20.1-2.1.2.7.jar",
+      "fileName": "carryon-forge-1.20.1-2.1.2.7.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/9999714ca3dd2f2401f0396ca44f3b27c3784c4f/carryon-forge-1.20.1-2.1.2.7.jar",
+      "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
+      "size": 439457
+    },
+    {
+      "name": "Chunky-1.3.146.jar",
+      "fileName": "Chunky-1.3.146.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50/Chunky-1.3.146.jar",
+      "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50",
+      "size": 341451
+    },
+    {
+      "name": "citadel-2.6.3-1.20.1.jar",
+      "fileName": "citadel-2.6.3-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316/citadel-2.6.3-1.20.1.jar",
+      "sha1": "fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316",
+      "size": 3185275
+    },
+    {
+      "name": "cloth-config-11.1.136-forge.jar",
+      "fileName": "cloth-config-11.1.136-forge.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/c65d07748acc57ceb45d53b3964368b84f34d54f/cloth-config-11.1.136-forge.jar",
+      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+      "size": 1181413
+    },
+    {
+      "name": "Clumps-forge-1.20.1-12.0.0.4.jar",
+      "fileName": "Clumps-forge-1.20.1-12.0.0.4.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/97cc669f68dbe812cb77cc3631339334fc28b877/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "sha1": "97cc669f68dbe812cb77cc3631339334fc28b877",
+      "size": 20299
+    },
+    {
+      "name": "Compat_AlexsMobs-Naturalist.jar",
+      "fileName": "Compat_AlexsMobs-Naturalist.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/b94eb0e5e73b41dea689b75fe17018c96628c649/Compat_AlexsMobs-Naturalist.jar",
+      "sha1": "b94eb0e5e73b41dea689b75fe17018c96628c649",
+      "size": 107423
+    },
+    {
+      "name": "Controlling-forge-1.20.1-12.0.2.jar",
+      "fileName": "Controlling-forge-1.20.1-12.0.2.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd/Controlling-forge-1.20.1-12.0.2.jar",
+      "sha1": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd",
+      "size": 115280
+    },
+    {
+      "name": "coroutil-forge-1.20.1-1.3.7.jar",
+      "fileName": "coroutil-forge-1.20.1-1.3.7.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0/coroutil-forge-1.20.1-1.3.7.jar",
+      "sha1": "7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0",
+      "size": 64187
+    },
+    {
+      "name": "cosmeticarmorreworked-1.20.1-v1a.jar",
+      "fileName": "cosmeticarmorreworked-1.20.1-v1a.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "sha1": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea",
+      "size": 88752
+    },
+    {
+      "name": "CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
+      "fileName": "CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/b309bd4803d5fcf27397b5ea60bbe4bb332bc809/CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
+      "sha1": "b309bd4803d5fcf27397b5ea60bbe4bb332bc809",
+      "size": 3503813
+    },
+    {
+      "name": "create-1.20.1-6.0.8.jar",
+      "fileName": "create-1.20.1-6.0.8.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/b13d912b9247a38d66d11598c121442585a1c1e9/create-1.20.1-6.0.8.jar",
+      "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9",
+      "size": 19170905
+    },
+    {
+      "name": "CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+      "fileName": "CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/f8b65310e0183630dd00c1ade12f9b6ecd243287/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+      "sha1": "f8b65310e0183630dd00c1ade12f9b6ecd243287",
+      "size": 1144290
+    },
+    {
+      "name": "cristellib-1.1.6-forge.jar",
+      "fileName": "cristellib-1.1.6-forge.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/524ecf0f93f28be2f5db21d87dd81bdbc1a450e1/cristellib-1.1.6-forge.jar",
+      "sha1": "524ecf0f93f28be2f5db21d87dd81bdbc1a450e1",
+      "size": 431318
+    },
+    {
+      "name": "cupboard-1.20.1-4.2.jar",
+      "fileName": "cupboard-1.20.1-4.2.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/db25dfc4935b7f1bde62c69f13a7b70e2ecd9f2f/cupboard-1.20.1-4.2.jar",
+      "sha1": "db25dfc4935b7f1bde62c69f13a7b70e2ecd9f2f",
+      "size": 33422
+    },
+    {
+      "name": "curios-forge-5.14.1+1.20.1.jar",
+      "fileName": "curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/452175b95ad3db6ff58bb8968f6bf7a9d1e0f480/curios-forge-5.14.1%2B1.20.1.jar",
+      "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+      "size": 398066
+    },
+    {
+      "name": "deeperdarker-forge-1.20.1-1.3.3.jar",
+      "fileName": "deeperdarker-forge-1.20.1-1.3.3.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/12f95fa85c62123140d1962702a97a3bb746bbf5/deeperdarker-forge-1.20.1-1.3.3.jar",
+      "sha1": "12f95fa85c62123140d1962702a97a3bb746bbf5",
+      "size": 17844266
+    },
+    {
+      "name": "DungeonsArise-1.20.x-2.1.58-release.jar",
+      "fileName": "DungeonsArise-1.20.x-2.1.58-release.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/30b4520e4fab40a6bb6153a2c72e34bcb721f0a5/DungeonsArise-1.20.x-2.1.58-release.jar",
+      "sha1": "30b4520e4fab40a6bb6153a2c72e34bcb721f0a5",
+      "size": 8762342
+    },
+    {
+      "name": "elevatorid-1.20.1-1.9.1-forge.jar",
+      "fileName": "elevatorid-1.20.1-1.9.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/9117fbb20ce0b3b9abd25e19b3d5987a53be30c9/elevatorid-1.20.1-1.9.1-forge.jar",
+      "sha1": "9117fbb20ce0b3b9abd25e19b3d5987a53be30c9",
+      "size": 187868
+    },
+    {
+      "name": "embeddium-0.3.31+mc1.20.1.jar",
+      "fileName": "embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/bb2fa8f3e493af16af9160d049f96c614a1faf2f/embeddium-0.3.31%2Bmc1.20.1.jar",
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+      "size": 1320675
+    },
+    {
+      "name": "EnderIO-1.20.1-6.2.18-beta-all.jar",
+      "fileName": "EnderIO-1.20.1-6.2.18-beta-all.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/33587f98f2d96507de0e9d2f57f5ab35328ace7d/EnderIO-1.20.1-6.2.18-beta-all.jar",
+      "sha1": "33587f98f2d96507de0e9d2f57f5ab35328ace7d",
+      "size": 8086393
+    },
+    {
+      "name": "entityculling-forge-1.11.3-mc1.20.1.jar",
+      "fileName": "entityculling-forge-1.11.3-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/d3c513e88ef9f5cdd7e27d17d923d4dca69c6d55/entityculling-forge-1.11.3-mc1.20.1.jar",
+      "sha1": "d3c513e88ef9f5cdd7e27d17d923d4dca69c6d55",
+      "size": 1515076
+    },
+    {
+      "name": "Explorify v1.6.5.mod.jar",
+      "fileName": "Explorify v1.6.5.mod.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/5fb28be29200a41b034e423d87823eb19ad651cd/Explorify%20v1.6.5.mod.jar",
+      "sha1": "5fb28be29200a41b034e423d87823eb19ad651cd",
+      "size": 767884
+    },
+    {
+      "name": "fabric-api-0.92.6+1.11.15+1.20.1.jar",
+      "fileName": "fabric-api-0.92.6+1.11.15+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/a37689ff8da8a32f82304ea4a1011873bb4c7eca/fabric-api-0.92.6%2B1.11.15%2B1.20.1.jar",
+      "sha1": "a37689ff8da8a32f82304ea4a1011873bb4c7eca",
+      "size": 3065833
+    },
+    {
+      "name": "FarmersDelight-1.20.1-1.3.4.jar",
+      "fileName": "FarmersDelight-1.20.1-1.3.4.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/26f615fd35f652021f5b0f1cba68afa7d578fe15/FarmersDelight-1.20.1-1.3.4.jar",
+      "sha1": "26f615fd35f652021f5b0f1cba68afa7d578fe15",
+      "size": 3311051
+    },
+    {
+      "name": "FastFurnace-1.20.1-8.0.2.jar",
+      "fileName": "FastFurnace-1.20.1-8.0.2.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/b144b8599acd3fac3f8f9d31fa217a4a5b942f61/FastFurnace-1.20.1-8.0.2.jar",
+      "sha1": "b144b8599acd3fac3f8f9d31fa217a4a5b942f61",
+      "size": 6170
+    },
+    {
+      "name": "FastLeafDecay-32.jar",
+      "fileName": "FastLeafDecay-32.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/4a76af4ca71dd9939d3c21206792c0d5f75b93a7/FastLeafDecay-32.jar",
+      "sha1": "4a76af4ca71dd9939d3c21206792c0d5f75b93a7",
+      "size": 9835
+    },
+    {
+      "name": "FastSuite-1.20.1-5.1.2.jar",
+      "fileName": "FastSuite-1.20.1-5.1.2.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/32ea4495b0e646f8f060e4e97d17044dd9fdefbd/FastSuite-1.20.1-5.1.2.jar",
+      "sha1": "32ea4495b0e646f8f060e4e97d17044dd9fdefbd",
+      "size": 26600
+    },
+    {
+      "name": "FastWorkbench-1.20.1-8.0.4.jar",
+      "fileName": "FastWorkbench-1.20.1-8.0.4.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/1a322a85e7c7024b8a0715c12d27b5ed0930d729/FastWorkbench-1.20.1-8.0.4.jar",
+      "sha1": "1a322a85e7c7024b8a0715c12d27b5ed0930d729",
+      "size": 28188
+    },
+    {
+      "name": "ferritecore-6.0.1-forge.jar",
+      "fileName": "ferritecore-6.0.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/417fb6ce8f52abf40bd9d0390371790f9576f8ba/ferritecore-6.0.1-forge.jar",
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+      "size": 123034
+    },
+    {
+      "name": "flerovium-forge-1.20.1-1.2.19-all.jar",
+      "fileName": "flerovium-forge-1.20.1-1.2.19-all.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/6f1536b97ce65a4a0fba2887aa2b1fa46be252b7/flerovium-forge-1.20.1-1.2.19-all.jar",
+      "sha1": "6f1536b97ce65a4a0fba2887aa2b1fa46be252b7",
+      "size": 254081
+    },
+    {
+      "name": "friendsandfoes-forge-5.0.2+mc1.20.1.jar",
+      "fileName": "friendsandfoes-forge-5.0.2+mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/838b923e3e1286297f4e025ab457667d3f832abf/friendsandfoes-forge-5.0.2%2Bmc1.20.1.jar",
+      "sha1": "838b923e3e1286297f4e025ab457667d3f832abf",
+      "size": 5466479
+    },
+    {
+      "name": "ftb-library-forge-2001.2.13.jar",
+      "fileName": "ftb-library-forge-2001.2.13.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/a5427d5ff07eb044144ed0b54308370d88bce17e/ftb-library-forge-2001.2.13.jar",
+      "sha1": "a5427d5ff07eb044144ed0b54308370d88bce17e",
+      "size": 780558
+    },
+    {
+      "name": "ftb-ultimine-forge-2001.1.8.jar",
+      "fileName": "ftb-ultimine-forge-2001.1.8.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/c2a1eb72c36ad067faafbff4e1618c4db906de74/ftb-ultimine-forge-2001.1.8.jar",
+      "sha1": "c2a1eb72c36ad067faafbff4e1618c4db906de74",
+      "size": 129653
+    },
+    {
+      "name": "fusion-1.3.16-forge-mc1.20.1.jar",
+      "fileName": "fusion-1.3.16-forge-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/bdaea06e0900a21d01b47389f256c99875f5824e/fusion-1.3.16-forge-mc1.20.1.jar",
+      "sha1": "bdaea06e0900a21d01b47389f256c99875f5824e",
+      "size": 972917
+    },
+    {
+      "name": "geckolib-forge-1.20.1-4.8.4.jar",
+      "fileName": "geckolib-forge-1.20.1-4.8.4.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/81982cc287f80ffabb2fd36d22cc95e4255c739d/geckolib-forge-1.20.1-4.8.4.jar",
+      "sha1": "81982cc287f80ffabb2fd36d22cc95e4255c739d",
+      "size": 1038209
+    },
+    {
+      "name": "gpumemleakfix-1.20.1-1.8.jar",
+      "fileName": "gpumemleakfix-1.20.1-1.8.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/54301c2db5467e0f9f5c504887436f358335331f/gpumemleakfix-1.20.1-1.8.jar",
+      "sha1": "54301c2db5467e0f9f5c504887436f358335331f",
+      "size": 7997
+    },
+    {
+      "name": "guideme-20.1.15.jar",
+      "fileName": "guideme-20.1.15.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/3d432fc99cefcfd17a12635d2d220f09a069f1c7/guideme-20.1.15.jar",
+      "sha1": "3d432fc99cefcfd17a12635d2d220f09a069f1c7",
+      "size": 9414827
+    },
+    {
+      "name": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+      "fileName": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/9eacd407b7dea636d375dc47335d92f616484ea2/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar",
+      "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2",
+      "size": 532063
+    },
+    {
+      "name": "iceandfire-2.1.13-1.20.1-beta-5.jar",
+      "fileName": "iceandfire-2.1.13-1.20.1-beta-5.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/7e828cbb046ca3d622e92c68f956bd1c0155dc6f/iceandfire-2.1.13-1.20.1-beta-5.jar",
+      "sha1": "7e828cbb046ca3d622e92c68f956bd1c0155dc6f",
+      "size": 21854126
+    },
+    {
+      "name": "illagerwarship-1.0.1-forge-1.20.1.jar",
+      "fileName": "illagerwarship-1.0.1-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/af3007f8cd07698286324bb3b555b5de2f84761a/illagerwarship-1.0.1-forge-1.20.1.jar",
+      "sha1": "af3007f8cd07698286324bb3b555b5de2f84761a",
+      "size": 70657
+    },
+    {
+      "name": "immersiveweapons-1.20.1-1.27.7.jar",
+      "fileName": "immersiveweapons-1.20.1-1.27.7.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/4f399fedb6802d3179ac219519444b8bb6ae23b4/immersiveweapons-1.20.1-1.27.7.jar",
+      "sha1": "4f399fedb6802d3179ac219519444b8bb6ae23b4",
+      "size": 5038528
+    },
+    {
+      "name": "industrial-foregoing-1.20.1-3.5.22.jar",
+      "fileName": "industrial-foregoing-1.20.1-3.5.22.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/2df8bbdbfa832ae1069e5173e58d3f2e0877d854/industrial-foregoing-1.20.1-3.5.22.jar",
+      "sha1": "2df8bbdbfa832ae1069e5173e58d3f2e0877d854",
+      "size": 4621983
+    },
+    {
+      "name": "infernalmobs-1.20.1.11.jar",
+      "fileName": "infernalmobs-1.20.1.11.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/b4c26889024f920fa2df0a40c7bd1430db3fac51/infernalmobs-1.20.1.11.jar",
+      "sha1": "b4c26889024f920fa2df0a40c7bd1430db3fac51",
+      "size": 145937
+    },
+    {
+      "name": "ironfurnaces-1.20.1-4.1.8.jar",
+      "fileName": "ironfurnaces-1.20.1-4.1.8.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/55386bfd5746bd8588df5d45f19cc964b666afe5/ironfurnaces-1.20.1-4.1.8.jar",
+      "sha1": "55386bfd5746bd8588df5d45f19cc964b666afe5",
+      "size": 612921
+    },
+    {
+      "name": "irons_lib-1.20.1-2.2.0.jar",
+      "fileName": "irons_lib-1.20.1-2.2.0.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/8cad65f57a4bdcbbf3ea8a5eda9240810e3a55aa/irons_lib-1.20.1-2.2.0.jar",
+      "sha1": "8cad65f57a4bdcbbf3ea8a5eda9240810e3a55aa",
+      "size": 490088
+    },
+    {
+      "name": "irons_spellbooks-1.20.1-3.16.3.jar",
+      "fileName": "irons_spellbooks-1.20.1-3.16.3.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/726345aa215756bd30b7cf8c338c9ae6bbc59799/irons_spellbooks-1.20.1-3.16.3.jar",
+      "sha1": "726345aa215756bd30b7cf8c338c9ae6bbc59799",
+      "size": 15570397
+    },
+    {
+      "name": "Jade-1.20.1-Forge-11.13.3.jar",
+      "fileName": "Jade-1.20.1-Forge-11.13.3.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/d08e64e66521d69e083c8525f1fc507f1c202384/Jade-1.20.1-Forge-11.13.3.jar",
+      "sha1": "d08e64e66521d69e083c8525f1fc507f1c202384",
+      "size": 553487
+    },
+    {
+      "name": "jei-1.20.1-forge-15.56.0.205.jar",
+      "fileName": "jei-1.20.1-forge-15.56.0.205.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/7f64b7f8fde7f001ef054dabe3618a8780ba2650/jei-1.20.1-forge-15.56.0.205.jar",
+      "sha1": "7f64b7f8fde7f001ef054dabe3618a8780ba2650",
+      "size": 1778129
+    },
+    {
+      "name": "JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "fileName": "JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/2747c58f439c37a01139d35cab59ca1a54114009/JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "sha1": "2747c58f439c37a01139d35cab59ca1a54114009",
+      "size": 276231
+    },
+    {
+      "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "fileName": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/2019d821bed9071daabed43979433a5473ceee49/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "sha1": "2019d821bed9071daabed43979433a5473ceee49",
+      "size": 625185
+    },
+    {
+      "name": "L_Enders_Cataclysm-3.31.jar",
+      "fileName": "L_Enders_Cataclysm-3.31.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/4f1165cb39521292e826b471b4808bb89f0f4f3f/L_Enders_Cataclysm-3.31.jar",
+      "sha1": "4f1165cb39521292e826b471b4808bb89f0f4f3f",
+      "size": 73916104
+    },
+    {
+      "name": "lionfishapi-3.0.jar",
+      "fileName": "lionfishapi-3.0.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/79d0404f87fa066480b18c844c1e0b1c5f5475f9/lionfishapi-3.0.jar",
+      "sha1": "79d0404f87fa066480b18c844c1e0b1c5f5475f9",
+      "size": 101931
+    },
+    {
+      "name": "lithostitched-forge-1.20.1-1.4.11.jar",
+      "fileName": "lithostitched-forge-1.20.1-1.4.11.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/d1a755de84ee5d8910ff1e65e815473056e93ece/lithostitched-forge-1.20.1-1.4.11.jar",
+      "sha1": "d1a755de84ee5d8910ff1e65e815473056e93ece",
+      "size": 476347
+    },
+    {
+      "name": "mcjtylib-1.20-8.0.8.jar",
+      "fileName": "mcjtylib-1.20-8.0.8.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/b065a249103feb80341cbd005a6baf8601d15684/mcjtylib-1.20-8.0.8.jar",
+      "sha1": "b065a249103feb80341cbd005a6baf8601d15684",
+      "size": 714454
+    },
+    {
+      "name": "Mekanism-1.20.1-10.4.16.80.jar",
+      "fileName": "Mekanism-1.20.1-10.4.16.80.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/b7f12ae710888b01746507a0aa8cb375f5897158/Mekanism-1.20.1-10.4.16.80.jar",
+      "sha1": "b7f12ae710888b01746507a0aa8cb375f5897158",
+      "size": 12558456
+    },
+    {
+      "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "fileName": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/e0942d396a70c09038e6c2e5e1da6505178249b8/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8",
+      "size": 37178
+    },
+    {
+      "name": "mob_grinding_utils-1.20.1-1.1.0.jar",
+      "fileName": "mob_grinding_utils-1.20.1-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/58991a3a94e1f982d0e558bed7b60226a097ae49/mob_grinding_utils-1.20.1-1.1.0.jar",
+      "sha1": "58991a3a94e1f982d0e558bed7b60226a097ae49",
+      "size": 1357176
+    },
+    {
+      "name": "mobtimizations-forge-1.20.1-1.0.1.jar",
+      "fileName": "mobtimizations-forge-1.20.1-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/7a1f74a0cc178013808b09f409341d7277ebb72a/mobtimizations-forge-1.20.1-1.0.1.jar",
+      "sha1": "7a1f74a0cc178013808b09f409341d7277ebb72a",
+      "size": 27943
+    },
+    {
+      "name": "modernfix-forge-5.27.88+mc1.20.1.jar",
+      "fileName": "modernfix-forge-5.27.88+mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/c550424a1a5435dfc838672e1df61289717cb2cc/modernfix-forge-5.27.88%2Bmc1.20.1.jar",
+      "sha1": "c550424a1a5435dfc838672e1df61289717cb2cc",
+      "size": 1009661
+    },
+    {
+      "name": "MoogsStructureLib-forge-1.20-3.4.2.jar",
+      "fileName": "MoogsStructureLib-forge-1.20-3.4.2.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/f91a62466de6e9b3a1166a1e88a837668cbb6eae/MoogsStructureLib-forge-1.20-3.4.2.jar",
+      "sha1": "f91a62466de6e9b3a1166a1e88a837668cbb6eae",
+      "size": 1089534
+    },
+    {
+      "name": "MoogsVoyagerStructures-universal-1.20-5.1.3.jar",
+      "fileName": "MoogsVoyagerStructures-universal-1.20-5.1.3.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/10f6327a8586581bdad42515e527b4abbabbd2d0/MoogsVoyagerStructures-universal-1.20-5.1.3.jar",
+      "sha1": "10f6327a8586581bdad42515e527b4abbabbd2d0",
+      "size": 2432788
+    },
+    {
+      "name": "moonlight-1.20-2.16.37-forge.jar",
+      "fileName": "moonlight-1.20-2.16.37-forge.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/1e73f140e59bd76508e464bf2506fffe362b5e6b/moonlight-1.20-2.16.37-forge.jar",
+      "sha1": "1e73f140e59bd76508e464bf2506fffe362b5e6b",
+      "size": 1421904
+    },
+    {
+      "name": "morevillagers-forge-1.20.1-5.0.0.jar",
+      "fileName": "morevillagers-forge-1.20.1-5.0.0.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/a6a22e3c7e6ca4a389ce72f82c90144f0a485cf5/morevillagers-forge-1.20.1-5.0.0.jar",
+      "sha1": "a6a22e3c7e6ca4a389ce72f82c90144f0a485cf5",
+      "size": 233335
+    },
+    {
+      "name": "mowziesmobs-1.8.2.jar",
+      "fileName": "mowziesmobs-1.8.2.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/25ffcd175cc03650e38e60d3cb7b3e038d9d3345/mowziesmobs-1.8.2.jar",
+      "sha1": "25ffcd175cc03650e38e60d3cb7b3e038d9d3345",
+      "size": 36033850
+    },
+    {
+      "name": "naturalist-5.0pre2+forge-1.20.1.jar",
+      "fileName": "naturalist-5.0pre2+forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/e0ddee72643c92f2b4754fa4d24c16d79eba343a/naturalist-5.0pre2%2Bforge-1.20.1.jar",
+      "sha1": "e0ddee72643c92f2b4754fa4d24c16d79eba343a",
+      "size": 3793857
+    },
+    {
+      "name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+      "fileName": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/7da1cdf00c0ae5cad31e17f765f6ea021c8ac808/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar",
+      "sha1": "7da1cdf00c0ae5cad31e17f765f6ea021c8ac808",
+      "size": 218152
+    },
+    {
+      "name": "obe+1.20.1-forge-1.1.52-srg.jar",
+      "fileName": "obe+1.20.1-forge-1.1.52-srg.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/6f1067d38a10a194d4e49c3e21040e45affd6ebf/obe%2B1.20.1-forge-1.1.52-srg.jar",
+      "sha1": "6f1067d38a10a194d4e49c3e21040e45affd6ebf",
+      "size": 841619
+    },
+    {
+      "name": "oculus-mc1.20.1-1.8.0.jar",
+      "fileName": "oculus-mc1.20.1-1.8.0.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/984f774e71790deaec674c7587bd24e0711871b2/oculus-mc1.20.1-1.8.0.jar",
+      "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+      "size": 2851119
+    },
+    {
+      "name": "ok_zoomer-forge-5.4.0-beta.9.jar",
+      "fileName": "ok_zoomer-forge-5.4.0-beta.9.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/68578eb7a2bb2f7c1eba041d67e558ebe5e63414/ok_zoomer-forge-5.4.0-beta.9.jar",
+      "sha1": "68578eb7a2bb2f7c1eba041d67e558ebe5e63414",
+      "size": 530268
+    },
+    {
+      "name": "Patchouli-1.20.1-85-FORGE.jar",
+      "fileName": "Patchouli-1.20.1-85-FORGE.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/d4614507d6e4c7cb464bba5eca891978272062ef/Patchouli-1.20.1-85-FORGE.jar",
+      "sha1": "d4614507d6e4c7cb464bba5eca891978272062ef",
+      "size": 642732
+    },
+    {
+      "name": "Placebo-1.20.1-8.6.3.jar",
+      "fileName": "Placebo-1.20.1-8.6.3.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/e85f53de2e582a79ce25ff1df1e7b5b5fc08440f/Placebo-1.20.1-8.6.3.jar",
+      "sha1": "e85f53de2e582a79ce25ff1df1e7b5b5fc08440f",
+      "size": 282474
+    },
+    {
+      "name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "fileName": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/16808f94a41d45d8e986b4e4ea6b02ba57fa058a/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
+      "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+      "size": 181437
+    },
+    {
+      "name": "playerlocatorplusreforged-1.0.1.jar",
+      "fileName": "playerlocatorplusreforged-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/7767586e5988f5ed0a86d9540eaafdc5144193af/playerlocatorplusreforged-1.0.1.jar",
+      "sha1": "7767586e5988f5ed0a86d9540eaafdc5144193af",
+      "size": 63619
+    },
+    {
+      "name": "ProjectE-1.20.1-PE1.0.1.jar",
+      "fileName": "ProjectE-1.20.1-PE1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/affd130b8a77e60dd7d7f7f3621d0182d82d13e1/ProjectE-1.20.1-PE1.0.1.jar",
+      "sha1": "affd130b8a77e60dd7d7f7f3621d0182d82d13e1",
+      "size": 2257347
+    },
+    {
+      "name": "radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+      "fileName": "radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/f5f5f792473bb7b85ec221f75c5afb3740afb13a/radium-mc1.20.1-0.12.4%2Bgit.26c9d8e.jar",
+      "sha1": "f5f5f792473bb7b85ec221f75c5afb3740afb13a",
+      "size": 713454
+    },
+    {
+      "name": "rechiseled-1.2.6-forge-mc1.20.1.jar",
+      "fileName": "rechiseled-1.2.6-forge-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/21d490e6aa8ba2ac7fad315d937b0b8f21b8c639/rechiseled-1.2.6-forge-mc1.20.1.jar",
+      "sha1": "21d490e6aa8ba2ac7fad315d937b0b8f21b8c639",
+      "size": 11895585
+    },
+    {
+      "name": "refinedstorage-1.12.4.jar",
+      "fileName": "refinedstorage-1.12.4.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/ff9e83c81344d0bfe9e0bb53c6df00c7e0a39cf5/refinedstorage-1.12.4.jar",
+      "sha1": "ff9e83c81344d0bfe9e0bb53c6df00c7e0a39cf5",
+      "size": 3300191
+    },
+    {
+      "name": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "fileName": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/597d40920dcc935f963842c817dcc4901862ab14/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "sha1": "597d40920dcc935f963842c817dcc4901862ab14",
+      "size": 136923
+    },
+    {
+      "name": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "fileName": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/6fc590a7c56a720fec57e290cbb0a106efbb3ffa/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
+      "size": 432753
+    },
+    {
+      "name": "rftoolsbase-1.20-5.0.7.jar",
+      "fileName": "rftoolsbase-1.20-5.0.7.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/57e1474cb437337ec78e8cbfd6c10fb6cfc9c829/rftoolsbase-1.20-5.0.7.jar",
+      "sha1": "57e1474cb437337ec78e8cbfd6c10fb6cfc9c829",
+      "size": 419732
+    },
+    {
+      "name": "Ribbits-1.20.1-Forge-3.0.5.jar",
+      "fileName": "Ribbits-1.20.1-Forge-3.0.5.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/5cc73d3399248300a188164406cd801cc4ae00b3/Ribbits-1.20.1-Forge-3.0.5.jar",
+      "sha1": "5cc73d3399248300a188164406cd801cc4ae00b3",
+      "size": 2223589
+    },
+    {
+      "name": "saturn-mc1.20.1-0.1.3.jar",
+      "fileName": "saturn-mc1.20.1-0.1.3.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/ad93f99d46714c46aaa6a4409aeca506e9fcac99/saturn-mc1.20.1-0.1.3.jar",
+      "sha1": "ad93f99d46714c46aaa6a4409aeca506e9fcac99",
+      "size": 92319
+    },
+    {
+      "name": "savage_and_ravage-1.20.1-6.0.1.jar",
+      "fileName": "savage_and_ravage-1.20.1-6.0.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/e58730ba8e1858dfd8db5853e05c16d7803514cf/savage_and_ravage-1.20.1-6.0.1.jar",
+      "sha1": "e58730ba8e1858dfd8db5853e05c16d7803514cf",
+      "size": 1316206
+    },
+    {
+      "name": "Searchables-forge-1.20.1-1.0.3.jar",
+      "fileName": "Searchables-forge-1.20.1-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/ed5a23ec30c90fd06b3f1d8140614028e1fafaee/Searchables-forge-1.20.1-1.0.3.jar",
+      "sha1": "ed5a23ec30c90fd06b3f1d8140614028e1fafaee",
+      "size": 77732
+    },
+    {
+      "name": "simpleplanestweak-1.0.3.jar",
+      "fileName": "simpleplanestweak-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/66ac013b202dc3c6d9739e82a757b22628ffc94f/simpleplanestweak-1.0.3.jar",
+      "sha1": "66ac013b202dc3c6d9739e82a757b22628ffc94f",
+      "size": 25343
+    },
+    {
+      "name": "smoothchunk-1.20.1-4.1.jar",
+      "fileName": "smoothchunk-1.20.1-4.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/3e142e4a2e12db1c9a3777879cc021aff49da088/smoothchunk-1.20.1-4.1.jar",
+      "sha1": "3e142e4a2e12db1c9a3777879cc021aff49da088",
+      "size": 14249
+    },
+    {
+      "name": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "fileName": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/d27524e85bed0f0af83c03be46f9ca3eb02a1be9/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "sha1": "d27524e85bed0f0af83c03be46f9ca3eb02a1be9",
+      "size": 511601
+    },
+    {
+      "name": "sodiumextras-forge-1.0.7-1.20.1.jar",
+      "fileName": "sodiumextras-forge-1.0.7-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/7603f44bc4750774fbbdc07a3153c391650fcf3d/sodiumextras-forge-1.0.7-1.20.1.jar",
+      "sha1": "7603f44bc4750774fbbdc07a3153c391650fcf3d",
+      "size": 438540
+    },
+    {
+      "name": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "fileName": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/7529fbf938787ed13a251cbf40936f8c29ec4b6c/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "sha1": "7529fbf938787ed13a251cbf40936f8c29ec4b6c",
+      "size": 443978
+    },
+    {
+      "name": "sophisticatedbackpacks-1.20.1-3.26.12.2206.jar",
+      "fileName": "sophisticatedbackpacks-1.20.1-3.26.12.2206.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/80628dadb57cf91e407b38935d8891e6ccf5733e/sophisticatedbackpacks-1.20.1-3.26.12.2206.jar",
+      "sha1": "80628dadb57cf91e407b38935d8891e6ccf5733e",
+      "size": 1220809
+    },
+    {
+      "name": "sophisticatedcore-1.20.1-1.5.10.2402.jar",
+      "fileName": "sophisticatedcore-1.20.1-1.5.10.2402.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/eaca58fec2f56c07c3dbef0919f0f0e9e6b513f3/sophisticatedcore-1.20.1-1.5.10.2402.jar",
+      "sha1": "eaca58fec2f56c07c3dbef0919f0f0e9e6b513f3",
+      "size": 1763344
+    },
+    {
+      "name": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "fileName": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/aef2c02392624f0a12475ada809366b12ac9ec52/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "sha1": "aef2c02392624f0a12475ada809366b12ac9ec52",
+      "size": 206984
+    },
+    {
+      "name": "spartanfire-1.20.1-2.1.0.jar",
+      "fileName": "spartanfire-1.20.1-2.1.0.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/111edcee61f587151f3457345c4cacbe0f8f6fe4/spartanfire-1.20.1-2.1.0.jar",
+      "sha1": "111edcee61f587151f3457345c4cacbe0f8f6fe4",
+      "size": 1553979
+    },
+    {
+      "name": "spartantoolkit-1.20.1-1.6.1.jar",
+      "fileName": "spartantoolkit-1.20.1-1.6.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/46c73554ce8282057824fae275f4f0cb0220c029/spartantoolkit-1.20.1-1.6.1.jar",
+      "sha1": "46c73554ce8282057824fae275f4f0cb0220c029",
+      "size": 87097
+    },
+    {
+      "name": "spartantwilight-1.20.1-3.1.1.jar",
+      "fileName": "spartantwilight-1.20.1-3.1.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/806890c4a427f7b47ee8c5ae3479e6e650f0fba6/spartantwilight-1.20.1-3.1.1.jar",
+      "sha1": "806890c4a427f7b47ee8c5ae3479e6e650f0fba6",
+      "size": 473906
+    },
+    {
+      "name": "SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
+      "fileName": "SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/187977cf09972df5773c92b8af5fd342a9d726cb/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
+      "sha1": "187977cf09972df5773c92b8af5fd342a9d726cb",
+      "size": 2834011
+    },
+    {
+      "name": "Structory_1.20.x_v1.3.5.jar",
+      "fileName": "Structory_1.20.x_v1.3.5.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/88c1d90ac79c98a50e3e4bd3a93c70431c716dd5/Structory_1.20.x_v1.3.5.jar",
+      "sha1": "88c1d90ac79c98a50e3e4bd3a93c70431c716dd5",
+      "size": 1286460
+    },
+    {
+      "name": "structure_gel-1.20.1-2.16.2.jar",
+      "fileName": "structure_gel-1.20.1-2.16.2.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/ec8c59d2a69eca3249a8da673f572b40b6d59895/structure_gel-1.20.1-2.16.2.jar",
+      "sha1": "ec8c59d2a69eca3249a8da673f572b40b6d59895",
+      "size": 966028
+    },
+    {
+      "name": "structure_layout_optimizer-forge-1.0.11.jar",
+      "fileName": "structure_layout_optimizer-forge-1.0.11.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/c2f2d42c987a611c6a14769ec02099e3439dc0f3/structure_layout_optimizer-forge-1.0.11.jar",
+      "sha1": "c2f2d42c987a611c6a14769ec02099e3439dc0f3",
+      "size": 246413
+    },
+    {
+      "name": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "fileName": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/f80f9eed728966adcfbcc848633e789645057281/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "sha1": "f80f9eed728966adcfbcc848633e789645057281",
+      "size": 206584
+    },
+    {
+      "name": "supermartijn642corelib-1.1.25a-forge-mc1.20.1.jar",
+      "fileName": "supermartijn642corelib-1.1.25a-forge-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/a98686fb8c9cb2725405d18a314df19087c2ff8b/supermartijn642corelib-1.1.25a-forge-mc1.20.1.jar",
+      "sha1": "a98686fb8c9cb2725405d18a314df19087c2ff8b",
+      "size": 559829
+    },
+    {
+      "name": "supplementaries-1.20-3.1.44-forge.jar",
+      "fileName": "supplementaries-1.20-3.1.44-forge.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/01e9bd4c264c6e04c7613095438bf0eee657b16f/supplementaries-1.20-3.1.44-forge.jar",
+      "sha1": "01e9bd4c264c6e04c7613095438bf0eee657b16f",
+      "size": 13686603
+    },
+    {
+      "name": "tectonic-3.0.17-forge-1.20.1.jar",
+      "fileName": "tectonic-3.0.17-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/07bfe13bc1bd75a6277f3d62bf92a549b33067a9/tectonic-3.0.17-forge-1.20.1.jar",
+      "sha1": "07bfe13bc1bd75a6277f3d62bf92a549b33067a9",
+      "size": 322575
+    },
+    {
+      "name": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "fileName": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/3bd99fb59e8b06b04e78b5153790c1e08b2be5dc/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "sha1": "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc",
+      "size": 107532
+    },
+    {
+      "name": "Terralith_1.20.x_v2.5.4.jar",
+      "fileName": "Terralith_1.20.x_v2.5.4.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/79e1409b8db4ce86df9d6d6730f09c4bd8860a30/Terralith_1.20.x_v2.5.4.jar",
+      "sha1": "79e1409b8db4ce86df9d6d6730f09c4bd8860a30",
+      "size": 3156901
+    },
+    {
+      "name": "titanium-1.20.1-3.8.34.jar",
+      "fileName": "titanium-1.20.1-3.8.34.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/06a073e2f7005eedcfb8ccb011f21f89db9e8e8c/titanium-1.20.1-3.8.34.jar",
+      "sha1": "06a073e2f7005eedcfb8ccb011f21f89db9e8e8c",
+      "size": 622073
+    },
+    {
+      "name": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "fileName": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/5a28ec56457cf1bf154e993cf73dba0428a7921b/Towns-and-Towers-1.12-Fabric%2BForge.jar",
+      "sha1": "5a28ec56457cf1bf154e993cf73dba0428a7921b",
+      "size": 2864275
+    },
+    {
+      "name": "tp-4.0.0-alpha.2.jar",
+      "fileName": "tp-4.0.0-alpha.2.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/2e4fda8cd17157110cfe5c4f7d682951abdcf137/tp-4.0.0-alpha.2.jar",
+      "sha1": "2e4fda8cd17157110cfe5c4f7d682951abdcf137",
+      "size": 1138976
+    },
+    {
+      "name": "twilightforest-1.20.1-4.3.2508-universal.jar",
+      "fileName": "twilightforest-1.20.1-4.3.2508-universal.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/fa3b506a45d3e9c465551cd533fd50c899496e9f/twilightforest-1.20.1-4.3.2508-universal.jar",
+      "sha1": "fa3b506a45d3e9c465551cd533fd50c899496e9f",
+      "size": 23332091
+    },
+    {
+      "name": "twm-1.12.2.jar",
+      "fileName": "twm-1.12.2.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/9e6bbcc53907f49677809dfdf3862e66f46322d6/twm-1.12.2.jar",
+      "sha1": "9e6bbcc53907f49677809dfdf3862e66f46322d6",
+      "size": 509138
+    },
+    {
+      "name": "variantsandventures-forge-1.0.28+mc1.20.1.jar",
+      "fileName": "variantsandventures-forge-1.0.28+mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/5793b4aa7291f878194878f7806fb8709bdd4fed/variantsandventures-forge-1.0.28%2Bmc1.20.1.jar",
+      "sha1": "5793b4aa7291f878194878f7806fb8709bdd4fed",
+      "size": 1287099
+    },
+    {
+      "name": "vminus-3.3.2.jar",
+      "fileName": "vminus-3.3.2.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/2fcc79a165f88621bd6aa27827422ea36f07b3cc/vminus-3.3.2.jar",
+      "sha1": "2fcc79a165f88621bd6aa27827422ea36f07b3cc",
+      "size": 1221242
+    },
+    {
+      "name": "watut-forge-1.20.1-1.2.3.jar",
+      "fileName": "watut-forge-1.20.1-1.2.3.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/d376debf1f96f37dbedf56919baeb7da2dcef9ab/watut-forge-1.20.1-1.2.3.jar",
+      "sha1": "d376debf1f96f37dbedf56919baeb7da2dcef9ab",
+      "size": 435496
+    },
+    {
+      "name": "waystones-forge-1.20.1-14.1.21.jar",
+      "fileName": "waystones-forge-1.20.1-14.1.21.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/61952fb248a9689fe46d5ffb223fcc41e31fef1a/waystones-forge-1.20.1-14.1.21.jar",
+      "sha1": "61952fb248a9689fe46d5ffb223fcc41e31fef1a",
+      "size": 536782
+    },
+    {
+      "name": "xaerominimap-forge-1.20.1-26.6.0.jar",
+      "fileName": "xaerominimap-forge-1.20.1-26.6.0.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/ee73886f2f5f27bf28cffa7cc8f2b9b4540df2aa/xaerominimap-forge-1.20.1-26.6.0.jar",
+      "sha1": "ee73886f2f5f27bf28cffa7cc8f2b9b4540df2aa",
+      "size": 2196194
+    },
+    {
+      "name": "xaeroworldmap-forge-1.20.1-1.47.0.jar",
+      "fileName": "xaeroworldmap-forge-1.20.1-1.47.0.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/6715c1d3758a3805589d82c41dc581537fe185cd/xaeroworldmap-forge-1.20.1-1.47.0.jar",
+      "sha1": "6715c1d3758a3805589d82c41dc581537fe185cd",
+      "size": 1429424
+    },
+    {
+      "name": "YungsApi-1.20-Forge-4.0.6.jar",
+      "fileName": "YungsApi-1.20-Forge-4.0.6.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/af584b690f5646c6032002b58abc4591beed3833/YungsApi-1.20-Forge-4.0.6.jar",
+      "sha1": "af584b690f5646c6032002b58abc4591beed3833",
+      "size": 370524
+    },
+    {
+      "name": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "fileName": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/67a9e1c2ff126ab54cea8e0709d178915243039e/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "sha1": "67a9e1c2ff126ab54cea8e0709d178915243039e",
+      "size": 792381
+    }
+  ],
+  "configs": [
+    {
+      "path": "asyncparticles",
+      "type": "directory",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/configs/63bc4c5215ba37d27ffc6e9540c7f3f59fad3c1ffd9c8a8d0662b92c1a15e58d/snapshot.zip",
+      "sha256": "63bc4c5215ba37d27ffc6e9540c7f3f59fad3c1ffd9c8a8d0662b92c1a15e58d",
+      "size": 1496,
+      "directories": [],
+      "files": [
+        {
+          "path": "asyncparticles-mixin.properties",
+          "sha256": "cc5e8031e56cfa91e4c3f010f5242a7e98789a874e4f4611c412c03bdb17e39f",
+          "size": 2140
+        },
+        {
+          "path": "asyncparticles.json",
+          "sha256": "bcfc76f6204333ab67d95d7cd12d0873924b12b635f3bb621a8f45cf5d3afde5",
+          "size": 1112
+        }
+      ]
+    },
+    {
+      "path": "bons_and_furious.properties",
+      "type": "file",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/configs/c297c15a04dfa9d15af06a643895dbcbcfee2d2d3cc930ea9ac4b2bc2642fb26/bons_and_furious.properties",
+      "sha256": "c297c15a04dfa9d15af06a643895dbcbcfee2d2d3cc930ea9ac4b2bc2642fb26",
+      "size": 366163
+    },
+    {
+      "path": "c2me.toml",
+      "type": "file",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/configs/2126263d8bcb768bf96d285360717283f4aa1758474484b540f8f1bf6d9baebf/c2me.toml",
+      "sha256": "2126263d8bcb768bf96d285360717283f4aa1758474484b540f8f1bf6d9baebf",
+      "size": 7437
+    },
+    {
+      "path": "embeddium-options.json",
+      "type": "file",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/configs/cc3a3bd0668fa7e011dae10c357eb4ddfb05c56f8207138e1fa62bdfe23d21c9/embeddium-options.json",
+      "sha256": "cc3a3bd0668fa7e011dae10c357eb4ddfb05c56f8207138e1fa62bdfe23d21c9",
+      "size": 853
+    },
+    {
+      "path": "flerovium.json",
+      "type": "file",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/configs/010b6eb7957cbb673c447de9b6729b37c3a6a4f5c4adccff21211b7b5b9b9554/flerovium.json",
+      "sha256": "010b6eb7957cbb673c447de9b6729b37c3a6a4f5c4adccff21211b7b5b9b9554",
+      "size": 137
+    },
+    {
+      "path": "flywheel-client.toml",
+      "type": "file",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/configs/10e4576ff44b74afe2900f10256a7c4bc1aa41dec47a93ea5130ecd0915d0fb8/flywheel-client.toml",
+      "sha256": "10e4576ff44b74afe2900f10256a7c4bc1aa41dec47a93ea5130ecd0915d0fb8",
+      "size": 622
+    },
+    {
+      "path": "modernfix-mixins.properties",
+      "type": "file",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/configs/7aa6dd70520ded8dca3d8402d061f6f6b92ea529db375e9b37b7670585bdff5f/modernfix-mixins.properties",
+      "sha256": "7aa6dd70520ded8dca3d8402d061f6f6b92ea529db375e9b37b7670585bdff5f",
+      "size": 6677
+    },
+    {
+      "path": "saturn-optimizations.toml",
+      "type": "file",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/main/configs/0e027ab3a4e030033e0e29083b6e0ba0ebb7fc093f498b0f06e6937a0e162864/saturn-optimizations.toml",
+      "sha256": "0e027ab3a4e030033e0e29083b6e0ba0ebb7fc093f498b0f06e6937a0e162864",
+      "size": 446
+    }
+  ]
 }
