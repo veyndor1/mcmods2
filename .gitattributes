@@ -1,0 +1,5 @@
+/mods/** -text
+/configs/** -text
+/mods-to-host/** -text
+/config-to-host/** -text
+/server-mods.json -text
