@@ -34,8 +34,9 @@ remain available so an existing download can finish safely. `server-mods.json`
 selects the active pack.
 
 The distribution repository for Minecraft **1.20.1 / Forge 47.4.10 / Java 17**.
-Players install one `AutoModUpdater-1.20.1-1.1-release.jar` into their Forge 1.20.1
-profile's `mods` directory. The regular JAR filename has the same contents. No account,
+Players download the complete `AutoModUpdater-1.jar` from the
+[latest updater release](https://github.com/veyndor1/mcmods2/releases/latest)
+and place it in their Forge 1.20.1 profile's `mods` directory. The regular JAR filename has the same contents. No account,
 token or additional service is required.
 
 ## Publishing
@@ -60,3 +61,16 @@ are activated with those mods after the current game exits.
 Repository visibility is public so the updater can download without credentials.
 Only the repository owner should have write access. Third-party mod binaries and
 config content retain their own licensing terms.
+
+## Related projects
+
+- [AutoModUpdater](https://github.com/veyndor1/AutoModUpdater): private updater source,
+  build tools and owner releases; its default branch is `1.20.1`. Access requires
+  the owner's permission.
+- [Public updater releases](https://github.com/veyndor1/mcmods2/releases): complete
+  obfuscated JARs, license notices and SHA-256 checksums for players.
+- [mc-mods](https://github.com/veyndor1/mc-mods): related private pack assets,
+  maintained separately. It is not this updater's fallback download source.
+
+The updater uses a proprietary binary-use license. The repository metadata
+license does not relicense the updater or third-party mod binaries.
