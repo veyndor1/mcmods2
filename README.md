@@ -4,7 +4,7 @@
 
 ## Current pack: Mirza gaga denemesi
 
-The 2026-10-15 publication contains **141 mod JARs** and **9 changed optimization
+The 2026-10-15 publication contains **142 mod JARs** and **9 changed optimization
 config files**, grouped into 8 manifest entries. Mod binaries and selected config
 files are copied without editing their contents. Other mod settings are generated
 by the mods or kept by the player.
