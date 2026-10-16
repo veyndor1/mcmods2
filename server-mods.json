@@ -998,11 +998,11 @@
       "size": 792381
     },
     {
-      "name": "veylo-forge-1.20.1-1.0.0.jar",
-      "fileName": "veylo-forge-1.20.1-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/31ac73edcd0ee22bd416ad84eb48db0531974fcf/mods/522fd943dccf867ecc612106d19e88b6adfae6ab/veylo-forge-1.20.1-1.0.0.jar",
-      "sha1": "522fd943dccf867ecc612106d19e88b6adfae6ab",
-      "size": 1323559
+      "name": "veylo-forge-1.20.1-1.0.2.jar",
+      "fileName": "veylo-forge-1.20.1-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/555d4ed17cf4c6c30928e82f5fd3a662d909202c/mods/43b2b7462a15ccff22fdbf36d330a3cbe55bdbec/veylo-forge-1.20.1-1.0.2.jar",
+      "sha1": "43b2b7462a15ccff22fdbf36d330a3cbe55bdbec",
+      "size": 1326191
     },
     {
       "name": "FarmersStructures-1.0.4-1.20.jar",
@@ -1106,6 +1106,11 @@
       "fileName": "sophisticatedcore-1.20.1-1.5.10.2402.jar",
       "name": "Sophisticated Core",
       "reason": "Replaced by sophisticatedcore-1.20.1-1.5.11.2407.jar"
+    },
+    {
+      "fileName": "veylo-forge-1.20.1-1.0.0.jar",
+      "name": "Veylo",
+      "reason": "Replaced by Veylo 1.0.2."
     }
   ],
   "updater": {
