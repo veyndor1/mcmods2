@@ -228,13 +228,6 @@
       "size": 88752
     },
     {
-      "name": "CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
-      "fileName": "CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
-      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/4be3f56eb3fbaf40733215201f537e998511aba5/mods/b309bd4803d5fcf27397b5ea60bbe4bb332bc809/CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
-      "sha1": "b309bd4803d5fcf27397b5ea60bbe4bb332bc809",
-      "size": 3503813
-    },
-    {
       "name": "create-1.20.1-6.0.8.jar",
       "fileName": "create-1.20.1-6.0.8.jar",
       "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/4be3f56eb3fbaf40733215201f537e998511aba5/mods/b13d912b9247a38d66d11598c121442585a1c1e9/create-1.20.1-6.0.8.jar",
@@ -1111,6 +1104,11 @@
       "fileName": "veylo-forge-1.20.1-1.0.0.jar",
       "name": "Veylo",
       "reason": "Replaced by Veylo 1.0.2."
+    },
+    {
+      "fileName": "CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
+      "name": "Crash Assistant",
+      "reason": "Removed from the current pack."
     }
   ],
   "updater": {
