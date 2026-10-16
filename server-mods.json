@@ -228,13 +228,6 @@
       "size": 88752
     },
     {
-      "name": "CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
-      "fileName": "CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
-      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/4be3f56eb3fbaf40733215201f537e998511aba5/mods/b309bd4803d5fcf27397b5ea60bbe4bb332bc809/CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
-      "sha1": "b309bd4803d5fcf27397b5ea60bbe4bb332bc809",
-      "size": 3503813
-    },
-    {
       "name": "create-1.20.1-6.0.8.jar",
       "fileName": "create-1.20.1-6.0.8.jar",
       "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/4be3f56eb3fbaf40733215201f537e998511aba5/mods/b13d912b9247a38d66d11598c121442585a1c1e9/create-1.20.1-6.0.8.jar",
@@ -1106,16 +1099,26 @@
       "fileName": "sophisticatedcore-1.20.1-1.5.10.2402.jar",
       "name": "Sophisticated Core",
       "reason": "Replaced by sophisticatedcore-1.20.1-1.5.11.2407.jar"
+    },
+    {
+      "fileName": "CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
+      "name": "Crash Assistant",
+      "reason": "Removed from the current pack."
+    },
+    {
+      "fileName": "AutoModUpdater-1.20.1-1.1.jar",
+      "name": "Auto Mod Updater 1.1",
+      "reason": "Replaced by the current complete updater distribution."
     }
   ],
   "updater": {
-    "version": "2.0",
-    "fileName": "AutoModUpdater-2.0.jar",
+    "version": "2.1",
+    "fileName": "AutoModUpdater-2.1.jar",
     "minecraftVersion": "1.20.1",
     "forgeMajor": 47,
     "javaMajor": 17,
-    "url": "https://github.com/veyndor1/mcmods2/releases/download/v2.0/AutoModUpdater-2.0.jar",
-    "sha256": "34f2d2f0573c778a69732f324d7daf37d403768432428380bb7d74e1da26e8d2",
-    "size": 18383446
+    "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/802cb9894db5e586f6ac5818b12f07f0ef242e01/updater/0d21f08aa8247e6da3a39c01fa18a4e763620b15f6956c1c07c704579056ea33/AutoModUpdater-2.1.jar",
+    "sha256": "0d21f08aa8247e6da3a39c01fa18a4e763620b15f6956c1c07c704579056ea33",
+    "size": 18383529
   }
 }
