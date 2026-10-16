@@ -594,9 +594,9 @@
     {
       "name": "moonlight-1.20-2.16.37-forge.jar",
       "fileName": "moonlight-1.20-2.16.37-forge.jar",
-      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/4be3f56eb3fbaf40733215201f537e998511aba5/mods/1e73f140e59bd76508e464bf2506fffe362b5e6b/moonlight-1.20-2.16.37-forge.jar",
-      "sha1": "1e73f140e59bd76508e464bf2506fffe362b5e6b",
-      "size": 1421904
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/31ac73edcd0ee22bd416ad84eb48db0531974fcf/mods/a04155ec07a586416543039d61028e2a582f0b04/moonlight-1.20-2.16.37-forge.jar",
+      "sha1": "a04155ec07a586416543039d61028e2a582f0b04",
+      "size": 1425211
     },
     {
       "name": "morevillagers-forge-1.20.1-5.0.0.jar",
@@ -802,11 +802,11 @@
       "size": 1220809
     },
     {
-      "name": "sophisticatedcore-1.20.1-1.5.10.2402.jar",
-      "fileName": "sophisticatedcore-1.20.1-1.5.10.2402.jar",
-      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/4be3f56eb3fbaf40733215201f537e998511aba5/mods/eaca58fec2f56c07c3dbef0919f0f0e9e6b513f3/sophisticatedcore-1.20.1-1.5.10.2402.jar",
-      "sha1": "eaca58fec2f56c07c3dbef0919f0f0e9e6b513f3",
-      "size": 1763344
+      "name": "sophisticatedcore-1.20.1-1.5.11.2407.jar",
+      "fileName": "sophisticatedcore-1.20.1-1.5.11.2407.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/31ac73edcd0ee22bd416ad84eb48db0531974fcf/mods/4ded6b8b4da2948e57274fb465e8857f6f767061/sophisticatedcore-1.20.1-1.5.11.2407.jar",
+      "sha1": "4ded6b8b4da2948e57274fb465e8857f6f767061",
+      "size": 1763291
     },
     {
       "name": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
@@ -996,6 +996,13 @@
       "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/4be3f56eb3fbaf40733215201f537e998511aba5/mods/67a9e1c2ff126ab54cea8e0709d178915243039e/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
       "sha1": "67a9e1c2ff126ab54cea8e0709d178915243039e",
       "size": 792381
+    },
+    {
+      "name": "veylo-forge-1.20.1-1.0.0.jar",
+      "fileName": "veylo-forge-1.20.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/31ac73edcd0ee22bd416ad84eb48db0531974fcf/mods/522fd943dccf867ecc612106d19e88b6adfae6ab/veylo-forge-1.20.1-1.0.0.jar",
+      "sha1": "522fd943dccf867ecc612106d19e88b6adfae6ab",
+      "size": 1323559
     }
   ],
   "configs": [
@@ -1073,6 +1080,11 @@
     {
       "fileName": "e4mc-forge-6.2.3.jar",
       "name": "e4mc"
+    },
+    {
+      "fileName": "sophisticatedcore-1.20.1-1.5.10.2402.jar",
+      "name": "Sophisticated Core",
+      "reason": "Replaced by sophisticatedcore-1.20.1-1.5.11.2407.jar"
     }
   ],
   "updater": {
