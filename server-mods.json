@@ -1069,7 +1069,12 @@
       "size": 446
     }
   ],
-  "removeMods": [],
+  "removeMods": [
+    {
+      "fileName": "e4mc-forge-6.2.3.jar",
+      "name": "e4mc"
+    }
+  ],
   "updater": {
     "version": "2.0",
     "fileName": "AutoModUpdater-2.0.jar",
