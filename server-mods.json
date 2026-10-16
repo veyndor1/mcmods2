@@ -587,9 +587,9 @@
     {
       "name": "moonlight-1.20-2.16.37-forge.jar",
       "fileName": "moonlight-1.20-2.16.37-forge.jar",
-      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/31ac73edcd0ee22bd416ad84eb48db0531974fcf/mods/a04155ec07a586416543039d61028e2a582f0b04/moonlight-1.20-2.16.37-forge.jar",
-      "sha1": "a04155ec07a586416543039d61028e2a582f0b04",
-      "size": 1425211
+      "url": "https://raw.githubusercontent.com/veyndor1/mcmods2/b01f4bb4cf7215d4a36013233fa6221d8e6a6dab/mods/1e73f140e59bd76508e464bf2506fffe362b5e6b/moonlight-1.20-2.16.37-forge.jar",
+      "sha1": "1e73f140e59bd76508e464bf2506fffe362b5e6b",
+      "size": 1421904
     },
     {
       "name": "morevillagers-forge-1.20.1-5.0.0.jar",
