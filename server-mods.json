@@ -536,6 +536,13 @@
                      "size":  476347
                  },
                  {
+                     "name":  "LootBags-1.20.1-2.5.8.5-port.1.jar",
+                     "fileName":  "LootBags-1.20.1-2.5.8.5-port.1.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/cfc19d8c9279aec6100308c93b9affb4b146633a/LootBags-1.20.1-2.5.8.5-port.1.jar",
+                     "sha1":  "cfc19d8c9279aec6100308c93b9affb4b146633a",
+                     "size":  219482
+                 },
+                 {
                      "name":  "mcjtylib-1.20-8.0.8.jar",
                      "fileName":  "mcjtylib-1.20-8.0.8.jar",
                      "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/b065a249103feb80341cbd005a6baf8601d15684/mcjtylib-1.20-8.0.8.jar",
@@ -562,13 +569,6 @@
                      "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/58991a3a94e1f982d0e558bed7b60226a097ae49/mob_grinding_utils-1.20.1-1.1.0.jar",
                      "sha1":  "58991a3a94e1f982d0e558bed7b60226a097ae49",
                      "size":  1357176
-                 },
-                 {
-                     "name":  "mob_loot_bags-neoforge-1.20.1-1.11.0.jar",
-                     "fileName":  "mob_loot_bags-neoforge-1.20.1-1.11.0.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/5556ff2055af2f0329c987bed15d749ee85c3ff6/mob_loot_bags-neoforge-1.20.1-1.11.0.jar",
-                     "sha1":  "5556ff2055af2f0329c987bed15d749ee85c3ff6",
-                     "size":  887631
                  },
                  {
                      "name":  "mobtimizations-forge-1.20.1-1.0.1.jar",
@@ -1135,6 +1135,11 @@
                        {
                            "fileName":  "veylo-forge-1.20.1-1.0.6.jar",
                            "name":  "veylo-forge-1.20.1-1.0.6.jar",
+                           "reason":  "Yayın masasından kaldırıldı veya yeni sürümle değiştirildi."
+                       },
+                       {
+                           "fileName":  "mob_loot_bags-neoforge-1.20.1-1.11.0.jar",
+                           "name":  "mob_loot_bags-neoforge-1.20.1-1.11.0.jar",
                            "reason":  "Yayın masasından kaldırıldı veya yeni sürümle değiştirildi."
                        }
                    ],
