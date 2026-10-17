@@ -1090,6 +1090,13 @@
                         "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/configs/0e027ab3a4e030033e0e29083b6e0ba0ebb7fc093f498b0f06e6937a0e162864/saturn-optimizations.toml",
                         "sha256":  "0e027ab3a4e030033e0e29083b6e0ba0ebb7fc093f498b0f06e6937a0e162864",
                         "size":  446
+                    },
+                    {
+                        "path":  "sidebar_buttons.json",
+                        "type":  "file",
+                        "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/configs/2511a89805ce365930d1f610ef2c21aa410f9c32a5679b958a73b48763601738/sidebar_buttons.json",
+                        "sha256":  "2511a89805ce365930d1f610ef2c21aa410f9c32a5679b958a73b48763601738",
+                        "size":  122
                     }
                 ],
     "removeMods":  [
