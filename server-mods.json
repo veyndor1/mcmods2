@@ -963,11 +963,11 @@
                      "size":  1287099
                  },
                  {
-                     "name":  "veylo-forge-1.20.1-1.0.6.jar",
-                     "fileName":  "veylo-forge-1.20.1-1.0.6.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/be33414c98905867fa0b976e1c0daff108e92b44/veylo-forge-1.20.1-1.0.6.jar",
-                     "sha1":  "be33414c98905867fa0b976e1c0daff108e92b44",
-                     "size":  1334788
+                     "name":  "veylo-forge-1.20.1-1.0.7.jar",
+                     "fileName":  "veylo-forge-1.20.1-1.0.7.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/510d08bcb0c0dc33ab5b8ff3e1cbd37bbe7d7a1c/veylo-forge-1.20.1-1.0.7.jar",
+                     "sha1":  "510d08bcb0c0dc33ab5b8ff3e1cbd37bbe7d7a1c",
+                     "size":  1335920
                  },
                  {
                      "name":  "vminus-3.3.2.jar",
@@ -1130,6 +1130,11 @@
                        {
                            "fileName":  "sophisticatedcore-1.20.1-1.5.11.2407.jar",
                            "name":  "sophisticatedcore-1.20.1-1.5.11.2407.jar",
+                           "reason":  "Yayın masasından kaldırıldı veya yeni sürümle değiştirildi."
+                       },
+                       {
+                           "fileName":  "veylo-forge-1.20.1-1.0.6.jar",
+                           "name":  "veylo-forge-1.20.1-1.0.6.jar",
                            "reason":  "Yayın masasından kaldırıldı veya yeni sürümle değiştirildi."
                        }
                    ],
