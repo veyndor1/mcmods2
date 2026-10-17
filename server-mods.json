@@ -963,11 +963,11 @@
                      "size":  1287099
                  },
                  {
-                     "name":  "veylo-forge-1.20.1-1.0.2.jar",
-                     "fileName":  "veylo-forge-1.20.1-1.0.2.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/43b2b7462a15ccff22fdbf36d330a3cbe55bdbec/veylo-forge-1.20.1-1.0.2.jar",
-                     "sha1":  "43b2b7462a15ccff22fdbf36d330a3cbe55bdbec",
-                     "size":  1326191
+                     "name":  "veylo-forge-1.20.1-1.0.6.jar",
+                     "fileName":  "veylo-forge-1.20.1-1.0.6.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/be33414c98905867fa0b976e1c0daff108e92b44/veylo-forge-1.20.1-1.0.6.jar",
+                     "sha1":  "be33414c98905867fa0b976e1c0daff108e92b44",
+                     "size":  1334788
                  },
                  {
                      "name":  "vminus-3.3.2.jar",
@@ -1116,6 +1116,11 @@
                            "fileName":  "veylo-forge-1.20.1-1.0.0.jar",
                            "name":  "Veylo",
                            "reason":  "Replaced by Veylo 1.0.2."
+                       },
+                       {
+                           "fileName":  "veylo-forge-1.20.1-1.0.2.jar",
+                           "name":  "veylo-forge-1.20.1-1.0.2.jar",
+                           "reason":  "Yayın masasından kaldırıldı veya yeni sürümle değiştirildi."
                        }
                    ],
     "updater":  {
