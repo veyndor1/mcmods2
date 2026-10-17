@@ -39,13 +39,6 @@
                      "size":  1274164
                  },
                  {
-                     "name":  "AmbientSounds_FORGE_v6.3.10_mc1.20.1.jar",
-                     "fileName":  "AmbientSounds_FORGE_v6.3.10_mc1.20.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/feb797f5303eb0b43002ad8ea366530249b4710b/AmbientSounds_FORGE_v6.3.10_mc1.20.1.jar",
-                     "sha1":  "feb797f5303eb0b43002ad8ea366530249b4710b",
-                     "size":  53432458
-                 },
-                 {
                      "name":  "Apotheosis-1.20.1-7.4.8.jar",
                      "fileName":  "Apotheosis-1.20.1-7.4.8.jar",
                      "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/e508c4724a24f0c80836818fcdd3df6424b1fc40/Apotheosis-1.20.1-7.4.8.jar",
@@ -1120,6 +1113,11 @@
                        {
                            "fileName":  "veylo-forge-1.20.1-1.0.2.jar",
                            "name":  "veylo-forge-1.20.1-1.0.2.jar",
+                           "reason":  "Yayın masasından kaldırıldı veya yeni sürümle değiştirildi."
+                       },
+                       {
+                           "fileName":  "AmbientSounds_FORGE_v6.3.10_mc1.20.1.jar",
+                           "name":  "AmbientSounds_FORGE_v6.3.10_mc1.20.1.jar",
                            "reason":  "Yayın masasından kaldırıldı veya yeni sürümle değiştirildi."
                        }
                    ],
