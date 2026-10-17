@@ -634,6 +634,13 @@
                      "size":  218152
                  },
                  {
+                     "name":  "notenoughwands-1.20-6.0.2.jar",
+                     "fileName":  "notenoughwands-1.20-6.0.2.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/0107e6811d729ed451951683af1c3943c14646bf/notenoughwands-1.20-6.0.2.jar",
+                     "sha1":  "0107e6811d729ed451951683af1c3943c14646bf",
+                     "size":  183646
+                 },
+                 {
                      "name":  "obe+1.20.1-forge-1.1.52-srg.jar",
                      "fileName":  "obe+1.20.1-forge-1.1.52-srg.jar",
                      "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/6f1067d38a10a194d4e49c3e21040e45affd6ebf/obe%2B1.20.1-forge-1.1.52-srg.jar",
@@ -809,11 +816,11 @@
                      "size":  1220809
                  },
                  {
-                     "name":  "sophisticatedcore-1.20.1-1.5.11.2407.jar",
-                     "fileName":  "sophisticatedcore-1.20.1-1.5.11.2407.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/4ded6b8b4da2948e57274fb465e8857f6f767061/sophisticatedcore-1.20.1-1.5.11.2407.jar",
-                     "sha1":  "4ded6b8b4da2948e57274fb465e8857f6f767061",
-                     "size":  1763291
+                     "name":  "sophisticatedcore-1.20.1-1.5.12.2412.jar",
+                     "fileName":  "sophisticatedcore-1.20.1-1.5.12.2412.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/a36420b09c1d741530210d17d13a38958357e674/sophisticatedcore-1.20.1-1.5.12.2412.jar",
+                     "sha1":  "a36420b09c1d741530210d17d13a38958357e674",
+                     "size":  1763486
                  },
                  {
                      "name":  "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
@@ -1118,6 +1125,11 @@
                        {
                            "fileName":  "AmbientSounds_FORGE_v6.3.10_mc1.20.1.jar",
                            "name":  "AmbientSounds_FORGE_v6.3.10_mc1.20.1.jar",
+                           "reason":  "Yayın masasından kaldırıldı veya yeni sürümle değiştirildi."
+                       },
+                       {
+                           "fileName":  "sophisticatedcore-1.20.1-1.5.11.2407.jar",
+                           "name":  "sophisticatedcore-1.20.1-1.5.11.2407.jar",
                            "reason":  "Yayın masasından kaldırıldı veya yeni sürümle değiştirildi."
                        }
                    ],
