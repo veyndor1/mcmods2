@@ -963,11 +963,11 @@
                      "size":  1287099
                  },
                  {
-                     "name":  "veylo-forge-1.20.1-1.0.7.jar",
-                     "fileName":  "veylo-forge-1.20.1-1.0.7.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/510d08bcb0c0dc33ab5b8ff3e1cbd37bbe7d7a1c/veylo-forge-1.20.1-1.0.7.jar",
-                     "sha1":  "510d08bcb0c0dc33ab5b8ff3e1cbd37bbe7d7a1c",
-                     "size":  1335920
+                     "name":  "veylo-forge-1.20.1-1.0.8.jar",
+                     "fileName":  "veylo-forge-1.20.1-1.0.8.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/c7e070753a8a52a64276a2a86bfbc376019c2e5f/veylo-forge-1.20.1-1.0.8.jar",
+                     "sha1":  "c7e070753a8a52a64276a2a86bfbc376019c2e5f",
+                     "size":  1340646
                  },
                  {
                      "name":  "vminus-3.3.2.jar",
@@ -1147,6 +1147,11 @@
                        {
                            "fileName":  "mob_loot_bags-neoforge-1.20.1-1.11.0.jar",
                            "name":  "mob_loot_bags-neoforge-1.20.1-1.11.0.jar",
+                           "reason":  "Yayın masasından kaldırıldı veya yeni sürümle değiştirildi."
+                       },
+                       {
+                           "fileName":  "veylo-forge-1.20.1-1.0.7.jar",
+                           "name":  "veylo-forge-1.20.1-1.0.7.jar",
                            "reason":  "Yayın masasından kaldırıldı veya yeni sürümle değiştirildi."
                        }
                    ],
