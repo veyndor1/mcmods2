@@ -536,11 +536,11 @@
                      "size":  476347
                  },
                  {
-                     "name":  "LootBags-1.20.1-2.5.8.5-port.1.jar",
-                     "fileName":  "LootBags-1.20.1-2.5.8.5-port.1.jar",
-                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/cfc19d8c9279aec6100308c93b9affb4b146633a/LootBags-1.20.1-2.5.8.5-port.1.jar",
-                     "sha1":  "cfc19d8c9279aec6100308c93b9affb4b146633a",
-                     "size":  219482
+                     "name":  "LootBags-1.20.1-2.5.8.5-port.2.jar",
+                     "fileName":  "LootBags-1.20.1-2.5.8.5-port.2.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mcmods2/main/mods/33b68eefd1a6427dbb1f4505cff12ffa3915cebd/LootBags-1.20.1-2.5.8.5-port.2.jar",
+                     "sha1":  "33b68eefd1a6427dbb1f4505cff12ffa3915cebd",
+                     "size":  223399
                  },
                  {
                      "name":  "mcjtylib-1.20-8.0.8.jar",
@@ -1152,6 +1152,11 @@
                        {
                            "fileName":  "veylo-forge-1.20.1-1.0.7.jar",
                            "name":  "veylo-forge-1.20.1-1.0.7.jar",
+                           "reason":  "Yayın masasından kaldırıldı veya yeni sürümle değiştirildi."
+                       },
+                       {
+                           "fileName":  "LootBags-1.20.1-2.5.8.5-port.1.jar",
+                           "name":  "LootBags-1.20.1-2.5.8.5-port.1.jar",
                            "reason":  "Yayın masasından kaldırıldı veya yeni sürümle değiştirildi."
                        }
                    ],
